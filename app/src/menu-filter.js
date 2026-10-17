@@ -2,9 +2,11 @@
 const filters = [...document.querySelectorAll('[data-menu-filter]')];
 const groups = [...document.querySelectorAll('[data-menu-category]')];
 const status = document.querySelector('#menu-status');
+const board = document.querySelector('.menu-board');
 
 function showCategory(category) {
   if (!['all', 'seafood', 'classics'].includes(category)) return;
+  board?.classList.toggle('is-filtered', category !== 'all');
   filters.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.menuFilter === category)));
   groups.forEach(group => {
     const shown = category === 'all' || group.dataset.menuCategory === category;
