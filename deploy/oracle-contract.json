@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "repo": "xsolutionsmd/johnny-dee-s-lounge",
+  "slug": "johnny-dee-s-lounge",
+  "hostname": "johnny-dee-s-lounge.xsolutionsmd.com",
+  "port": 8080,
+  "image": "ghcr.io/xsolutionsmd/johnny-dee-s-lounge",
+  "mode": "stateless",
+  "architecture": "arm64",
+  "network": "xsolutions-proxy",
+  "environments": [
+    {
+      "name": "production",
+      "branch": "main",
+      "slug": "johnny-dee-s-lounge",
+      "hostname": "johnny-dee-s-lounge.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/johnny-dee-s-lounge"
+    },
+    {
+      "name": "derek-dev",
+      "branch": "derek-dev",
+      "slug": "johnny-dee-s-lounge-derek-dev",
+      "hostname": "johnny-dee-s-lounge-derek-dev.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/johnny-dee-s-lounge-derek-dev"
+    },
+    {
+      "name": "abdul-dev",
+      "branch": "abdul-dev",
+      "slug": "johnny-dee-s-lounge-abdul-dev",
+      "hostname": "johnny-dee-s-lounge-abdul-dev.xsolutionsmd.com",
+      "image": "ghcr.io/xsolutionsmd/johnny-dee-s-lounge-abdul-dev"
+    }
+  ]
+}

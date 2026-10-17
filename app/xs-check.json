@@ -1,0 +1,12 @@
+{
+  "requiredLinks": [
+    "/",
+    "/menu/",
+    "/catering/",
+    "/visit/",
+    "tel:+14106657000",
+    "https://www.google.com/maps/dir/?api=1&destination=Johnny+Dee%27s+Lounge%2C+1705+Amuskai+Rd%2C+Parkville%2C+MD+21234",
+    "https://www.facebook.com/p/Johnny-Dees-Lounge-100042693473168/"
+  ],
+  "allowedExternalResources": []
+}

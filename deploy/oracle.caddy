@@ -1,0 +1,3 @@
+johnny-dee-s-lounge.xsolutionsmd.com {
+    reverse_proxy johnny-dee-s-lounge:8080
+}

@@ -1,0 +1,11 @@
+[Unit]
+Description=Check johnny-dee-s-lounge approved releases
+
+[Timer]
+OnBootSec=45s
+OnUnitInactiveSec=60s
+AccuracySec=5s
+Unit=johnny-dee-s-lounge-update.service
+
+[Install]
+WantedBy=timers.target

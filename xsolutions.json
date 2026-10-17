@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "toolkit": "xs-website 1.0 (2026-10-16)",
+  "name": "Johnny Dee's Lounge",
+  "slug": "johnny-dee-s-lounge",
+  "created": "2026-10-17T23:30:18.811775+00:00",
+  "repository": "xsolutionsmd/johnny-dee-s-lounge",
+  "visibility": "public",
+  "build_type": "functional",
+  "features": [
+    "menu",
+    "directions",
+    "catering"
+  ],
+  "endpoint": "full",
+  "identity": {
+    "status": "confirmed",
+    "official_name": "Johnny Dee's Lounge",
+    "address": "1705 Amuskai Rd, Parkville, MD 21234",
+    "public_phone": "410-665-7000",
+    "public_email": null,
+    "website": "https://www.johnnydeeslounge.com/",
+    "maps_url": null,
+    "social": {},
+    "evidence": [
+      {
+        "observed": "2026-10-17T23:30:32.090364+00:00",
+        "note": "Restaurantji and Tripadvisor independently match the supplied business name, street address, and phone; official domain returns Page Not Found on 2026-10-17."
+      },
+      {
+        "observed": "2026-10-17T23:33:48.829608+00:00",
+        "note": "Independent corroboration: Tripadvisor Parkville listing matches Johnny Dees Lounge, 1705 Amuskai Rd and +1 410-665-7000 (https://www.tripadvisor.com/Restaurant_Review-g41308-d439275-Reviews-Johnny_Dee_s_Lounge-Parkville_Maryland.html), observed 2026-10-17."
+      }
+    ]
+  },
+  "environments": [
+    {
+      "name": "production",
+      "branch": "main",
+      "hostname": "johnny-dee-s-lounge.xsolutionsmd.com",
+      "slug": "johnny-dee-s-lounge"
+    },
+    {
+      "name": "derek-dev",
+      "branch": "derek-dev",
+      "hostname": "johnny-dee-s-lounge-derek-dev.xsolutionsmd.com",
+      "slug": "johnny-dee-s-lounge-derek-dev"
+    },
+    {
+      "name": "abdul-dev",
+      "branch": "abdul-dev",
+      "hostname": "johnny-dee-s-lounge-abdul-dev.xsolutionsmd.com",
+      "slug": "johnny-dee-s-lounge-abdul-dev"
+    }
+  ],
+  "stages": {
+    "identity": {
+      "status": "pending"
+    },
+    "research": {
+      "status": "done",
+      "recorded": "2026-10-17T23:41:53.498627+00:00",
+      "evidence": [
+        "Focused factual KB filled from four sources and official Facebook inspection; hours/menu uncertainty retained."
+      ]
+    },
+    "spec": {
+      "status": "done",
+      "recorded": "2026-10-17T23:41:53.662108+00:00",
+      "evidence": [
+        "Astra-owned scope: four distinct static pages, menu filter, real call/directions/social and catering inquiry. No submissions."
+      ]
+    },
+    "assets": {
+      "status": "pending"
+    },
+    "delivery": {
+      "status": "pending"
+    },
+    "infra": {
+      "status": "pending"
+    },
+    "template": {
+      "status": "pending"
+    },
+    "build": {
+      "status": "pending"
+    },
+    "deploy": {
+      "status": "pending"
+    }
+  },
+  "updated": "2026-10-17T23:41:53.662124+00:00"
+}
