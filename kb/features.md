@@ -24,4 +24,5 @@ Confirm current full menu/prices, daily hours, catering terms and media reuse pe
 | pre | Multipage | All four built documents have distinct main content | desktop/mobile | Build plus browser | pass | 2026-10-17 production build and focused 1440px/375px browser checks |
 | pre | Navigation | Mobile menu and browser history work | mobile | Browser interaction | pass | 2026-10-17 production build and focused 1440px/375px browser checks |
 | pre | Links | Phone, directions, Facebook destinations match evidence | all | Link inspection | pass | 2026-10-17 production build and focused 1440px/375px browser checks |
-| live | Multipage | Every URL direct-loads and refreshes over HTTPS on every environment | all | HTTP and browser | pending | Await deployment |
+| live | Multipage | Every URL direct-loads and refreshes over HTTPS on every environment | all | HTTP and browser | pass | All 12 environment/page combinations returned 200 twice at eba3440; production browser direct loads and reloads also passed |
+| pre | Visual correction | Dark labels, single filtered menu, visit-card buttons | desktop/mobile | Rendered browser inspection | pass | Astra: brighter brass labels, centered 672px desktop result/343px phone result, aligned desktop buttons and contained mobile controls |

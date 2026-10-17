@@ -49,6 +49,7 @@ copied: no branding, text, imagery or code.
 
 ## Accepted decisions and corrections
 
+- 2026-10-17 post-publication Sol rendered review covered all four routes at 1440px and 375px. Astra addressed all three findings: brighter small labels on dark sections, centered bounded single-category desktop menu results, and aligned homepage visit-card actions. Two-column All results and mobile card containment are preserved.
 - 2026-10-17 owner: a real multipage site in which every nav tab is a distinct URL,
   never a #section. Shared header/footer, aria-current active state, mobile disclosure nav.
 - 2026-10-17: media rights unconfirmed. No stock or generated food presented as the

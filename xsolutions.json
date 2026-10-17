@@ -78,17 +78,29 @@
       "status": "pending"
     },
     "infra": {
-      "status": "pending"
+      "status": "done",
+      "recorded": "2026-10-17T23:50:13.125503+00:00",
+      "evidence": [
+        "Public xsolutionsmd/johnny-dee-s-lounge repo, main/derek-dev/abdul-dev, protected main and branch-scoped GitHub environments. All three push-event Actions green; anonymous registry pull, healthy Oracle origins, exact eba3440 revision and all four HTTPS routes verified 2026-10-17."
+      ]
     },
     "template": {
       "status": "pending"
     },
     "build": {
-      "status": "pending"
+      "status": "done",
+      "recorded": "2026-10-17T23:53:48.294179+00:00",
+      "evidence": [
+        "Claude initial four-page UI, Astra menu filter, production build and ARM64 origin checks passed. Sol rendered live desktop/mobile review completed; Astra fixed its three findings and inspected affected desktop/mobile views; npm run check passes."
+      ],
+      "inputs_sha256": {
+        "kb/features.md": "f7ca926a92afd565ff4a93e99cfc5bbc91eed1278f75a5d38e1a749ed381b8da",
+        "kb/design-brief.md": "fa13f773361eed8b370b028c58486e331e20a020e56bc242760d814272a208b2"
+      }
     },
     "deploy": {
       "status": "pending"
     }
   },
-  "updated": "2026-10-17T23:41:53.662124+00:00"
+  "updated": "2026-10-17T23:53:48.297247+00:00"
 }
