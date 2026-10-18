@@ -1,5 +1,10 @@
 # Features
 
+## R8 photo coverage
+
+Menu retains38 selections and all six filter states;29distinct accurate dish photos now render. The nine unpictured selections remain text. R7’s duplicate Lounge Club photo is removed. Past soup and oyster preparation labels prevent an unsupported current-plating claim.
+
+
 ## R7 menu-photo behavior
 
 Menu now contains38 sourced selections and20 matching dish photos. All six states

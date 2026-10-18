@@ -1,5 +1,10 @@
 # Design brief
 
+## R8 scoped photo correction
+
+Preserve the accepted reference-derived structure and one-family typography. Add ten accurate photo mappings, remove the incorrect Lounge Club image, retain uniform4:3 crops/two desktop columns/one phone column. The full private item map reconciles all38names;29have photos and9remain genuinely unresolved. This supersedes R7’s claim of20distinct compositions. No new design/reference cycle is needed.
+
+
 ## R7 scoped photo integration
 
 This is the owner's requested live-menu photo addition, not a new reference or
