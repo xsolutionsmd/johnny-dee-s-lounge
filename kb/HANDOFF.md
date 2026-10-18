@@ -1,5 +1,23 @@
 # Handoff
 
+## R8 independent live preview review accepted ? October 18, 2026
+
+GPT-6.1-Sol High inspected the live Derek preview at application revision
+`edf6cedac2a6531eb48081c3f37bf08811a590f0`. All 29 menu photos were viewed at
+1440?900 and 375?812, with 320px containment checks across all four pages.
+No actionable visual, interaction or new photo-association defect was found.
+The prior duplicate Lounge Club image is corrected. Six filters, shared navigation,
+back/forward, direct loads/reloads, drawer focus/close states, gallery keyboard
+controls and intercepted call/directions/social destinations passed.
+
+Coverage remains 29 photos for 38 selections, with nine exact photo gaps; 27
+associations are caption/source-confirmed and Reuben/calamari retain inferred
+identity caveats. Mixed historical photo quality and current availability remain
+qualified. Physical touch, other browser engines and forced reduced-motion runtime
+were not tested. Production promotion follows this accepted review; final
+production/environment verification and Slack delivery are recorded separately.
+
+
 ## R8 expanded menu photography — October18,2026
 
 The requested correction adds ten accurate photo mappings and removes the
