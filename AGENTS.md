@@ -39,18 +39,32 @@ refreshes the generated status block.
 
 ## Rules for this repository
 
+- Current XS workflow: no Stitch, including trial attempts. Reconcile older design
+  rules with the current user request before delegation. Use researched company
+  facts/assets to choose functionality and a premium reference, accept sufficient
+  content, then Sol reconstructs/populates with REA/browser evidence, Astra checks
+  backend/integrations and Claude refines the existing frontend. Strongly prefer
+  Claude; evidenced exhausted usage permits Astra after stopping the old task.
+  Publish/check the first version and send its URL to Slack before full infrastructure
+  and independent live review. The coordinator accepts phases in order, announces
+  their completion and prevents interrupted/replaced agents from resuming writes.
+  This completed R5/R6 correction has an explicit no-Claude override. Preserve its
+  recorded Astra implementation and Sol review; do not reopen it for default roles.
+
 - It is public. Commit only sourced public business facts, the design brief and
   project state. Pricing, quotes, lead/sales status, private contact details,
-  credentials and private asset-library originals stay out (they live in X
-  Solutions' private workspace or Slack). All gathered business assets are authorized
-  for the requested site in every environment; old reference-only/public-unverified/
-  permission-unknown flags cannot block use or trigger another approval request.
-  Choose suitable assets for the rendered pages and preserve their provenance.
-  Run `xs_company.py check-public` before
+  credentials and the full raw media archive stay out (they live in X
+  Solutions' private workspace or Slack). Run `xs_company.py check-public` before
   pushing when the skills are installed.
 - Every factual claim on the site must trace to `kb/sources.md`. Unknowns stay
   unknown; never invent reviews, ratings, prices, credentials or service areas.
-- Media: Derek confirms owner permission for all gathered business photos/assets across sources and beyond the shortlist, for this requested website in every environment including production. Use suitable assets without asking again per photo, source or environment. Older reference-only, public-unverified and permission-pending notes are superseded as approval gates; retain provenance and accurate identity/content descriptions. Pass this confirmation to every delegated agent. Keep the full original archive private and use optimized copies in the site. See `kb/media.md` for source records and library delivery.
+- Media: Derek confirms owner permission for all gathered business assets across
+  sources, not only the shortlist. Use suitable photos/assets in every environment,
+  including production, without asking again per file or source. Old reference-only,
+  public-unverified and permission-pending labels do not override this confirmation.
+  Preserve provenance and accurate captions; include optimized site copies in the
+  repository and keep the full raw archive private. Pass this rule to every delegate.
+  See `kb/media.md` for the library and recorded Slack delivery.
 - Previews are `noindex` and use test data and test integrations only.
 - Keep `kb/`, `AGENTS.md`, `CLAUDE.md` and `xsolutions.json` out of the production
   image (`.dockerignore`).
@@ -95,3 +109,15 @@ This repository has no shared dev branch. Long-lived branches: `main` (productio
 ## Initial build scope
 
 The first delivery uses four real HTML page URLs. The staged server-first release and focused validation are documented in the handoff. After first publication and GitHub setup, a requested GPT-6.1-Sol High visual review reports to Astra, which may implement and release scoped corrections. Keep this exception local to that correction phase.
+
+## Current website design route
+
+Derek's latest instruction supersedes the earlier Stitch route: do not use Stitch,
+including attempts or fallbacks. Follow the canonical XS workflow in
+`~/.codex/skills/xs-website/SKILL.md`, especially
+`~/.codex/skills/xs-website/references/coordinator.md`, and its reconstruction/delivery
+references. The main coordinator owns ordered acceptance and completion updates.
+The repository's reference-design skill and `docs/DESIGN_WORKFLOW.md` provide the
+local implementation route; preserve task-specific role restrictions and existing
+branch, endpoint and release boundaries. Keep separate pages where requested,
+no decorative numbering, and the already confirmed business-asset authorization.

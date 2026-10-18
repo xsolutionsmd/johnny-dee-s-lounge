@@ -1,5 +1,48 @@
 # Validation
 
+## R7 menu-photo change — local readiness
+
+38 sourced selections,20 rendered dish images;32-file production build/static check.
+Asset verification passes24 originals with recorded hashes; generated public-media
+report and public-source check pass. Desktop1440x900 and phone375/320 compositions
+inspected, with category/image/control containment and no horizontal overflow.
+All local filter states return7/6/4/12/9/38; images load at their actual dish labels.
+The extra divider/gap from hidden preceding categories was corrected. Final LIVE
+Sol interaction review and production/preview exact revisions are recorded after
+the authorized release; this section does not claim those future checks passed.
+
+
+## Final R6 LIVE acceptance - October18 UTC / October17 EDT,2026
+
+Production revision `d8dfdb5562cf358a3f63aa6330b5139d80953af5` is the PR5 correction.
+Astra's source `c5722dbe198e2b96eb76521e6793c32c628e72b4` passed the19-file
+production/static check. Sol independently rechecked the actual published fix:
+all four shared call links at375x812 and320x812 are44x44px, centered and contained
+within their own header parent, with zero horizontal overflow. Eight actual
+browser clicks in the added padding reached `tel:+14106657000`; capture listeners
+prevented telephone dispatch. No real call was placed.
+
+Drawer open/Close/Escape/outside dismissal, initial focus, Tab/Shift+Tab containment,
+focus restoration and background inert state pass. Open-drawer resize to1440 clears
+mobile state; the88px desktop header, logo, split navigation and phone remain
+balanced. No actionable finding remains. Prior full Sol LIVE coverage at57edc5e
+remains applicable; this scoped recheck did not repeat the complete visual review.
+Private selected screenshots, geometry and trusted-event evidence are retained.
+
+All three environments passed exact version/healthy origin checks and all four
+routes direct-load/uncached reload over HTTPS, with noindex. Production remains
+on the correction above; each preview receives the final documentation commit and
+reports its own SHA at `/version.json`. Actions provides the matching push-event
+CI/release evidence. Final verification receipts are private to avoid recursive
+receipt commits. App/runtime/workflow content is unchanged by handoff commits.
+The shared gateway remains unchanged, all24 containers are healthy; concurrent
+Charcoal changes are recorded separately and were not made by this task.
+
+No Claude in this correction, no successful REA capture, no infrastructure rebuild,
+manual updater trigger or Reticle pass is claimed. Runtime reduced-motion emulation,
+physical touch and broader cross-browser behavior remain unverified. Current full
+menu/prices, confirmed daily hours and catering terms/capacity remain content gaps.
+
 ## R5 live review and final phone-target correction
 
 Sol High reviewed production57edc5e on every page at1440/375, plus320px controls.
@@ -11,7 +54,7 @@ and observed motion passed. One P3: shared mobile call link was20x44px.
 Astra changed only its mobile minimum width/centering to44x44px. Local production
 check19files passed; allfour headers at375/320 measure44x44 within their parent,
 with zero overflow and clickable padding after navigation transitions settle.
-Targeted320Visit screenshot inspected. Corrective release/live Sol recheck follows.
+Targeted320Visit screenshot inspected. Corrective production released asd8dfdb5; the focused Sol LIVE recheck below passed.
 Runtime reduced-motion preference emulation, physical touch and broad cross-browser
 testing remain unverified; source rules are present. No real calls were dispatched.
 
@@ -100,6 +143,5 @@ Images load; dialog opens/advances/closes; drawer focus cycle and background ine
 state pass. Reduced-motion rules were source-checked; physical touch and broad
 cross-browser testing are not claimed. No real calls, orders or messages were sent.
 
-This record is pre-release readiness, not final LIVE acceptance. Publish through
-existing preview/PR/main path, verify all three environments, then fresh Sol High
-LIVE interaction review and Astra fixes. Final Sol handoff/delivery follows.
+This subsection records historical pre-release readiness. Final LIVE acceptance is
+recorded at the top of this document; do not repeat this release or full review.

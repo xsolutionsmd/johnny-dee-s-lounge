@@ -22,7 +22,7 @@ Buttons `[data-menu-filter]` expose aria-pressed. Groups `[data-menu-category]`
 use native hidden. `#menu-status` announces the number of visible dishes. Only
 listed categories are accepted; rapid changes cancel the previous400ms entrance.
 No inventory, availability, price or order is inferred from a selected category.
-All28 entries remain in static HTML when scripting is unavailable.
+All38 entries remain in static HTML when scripting is unavailable.
 
 Mobile navigation is a320px left drawer (bounded to viewport minus40px), with
 close button, dimmed outside-dismiss, Escape, focus containment/restoration and

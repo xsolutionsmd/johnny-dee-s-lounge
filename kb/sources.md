@@ -65,3 +65,36 @@ Photographs are official Facebook renditions with original dates/provenance in
 `media.md` and the private library. The2023 interior gathering does not establish a
 current event schedule or room capacity. No competitor, generated or Maps-reviewer
 photos were used. Only the actual business media is included in the public app.
+
+## R7 menu photo sources — October18,2026
+
+Twenty distinct dish photos are used directly in Menu. Official captions identify15; the other5 are plausible visual associations from the exact-location gallery, recorded as inferred rather than caption-confirmed. Prices and current availability are unverified.
+
+| Menu photo | Source | Association |
+|---|---|---|
+| Soft-crab sandwich | [Source](https://www.facebook.com/photo.php?fbid=1801544201278678&set=pb.100042693473168.-2207520000&type=3) | confirmed; `soft-crab.jpg` |
+| Ahi tuna house salad | [Source](https://www.facebook.com/photo.php?fbid=1179688166797621&set=pb.100042693473168.-2207520000&type=3) | confirmed; `ahi-tuna.jpg` |
+| Eggplant Parmesan | [Source](https://www.facebook.com/photo.php?fbid=860845338681907&set=pb.100042693473168.-2207520000&type=3) | confirmed; `eggplant.jpg` |
+| Homemade turkey pot pie | [Source](https://www.facebook.com/photo.php?fbid=810521040381004&set=pb.100042693473168.-2207520000&type=3) | confirmed; `turkey-pot-pie.jpg` |
+| Pumpkin ravioli | [Source](https://www.facebook.com/photo.php?fbid=804720554294386&set=pb.100042693473168.-2207520000&type=3) | confirmed; `ravioli.jpg` |
+| Shrimp pasta primavera | [Source](https://www.facebook.com/photo.php?fbid=6114920521856521&set=pb.100042693473168.-2207520000&type=3) | confirmed; `shrimp-pasta.jpg` |
+| Shrimp salad stuffed tomato | [Source](https://www.facebook.com/photo.php?fbid=5020228011325783&set=pb.100042693473168.-2207520000&type=3) | confirmed; `shrimp-tomato.jpg` |
+| Italian cold cut sub | [Source](https://www.facebook.com/photo.php?fbid=4419715034710420&set=pb.100042693473168.-2207520000&type=3) | confirmed; `italian-sub.jpg` |
+| The Lounge Club | [Source](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) | likely; `lounge-club.jpg` |
+| Reuben platter | [Source](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) | likely; `reuben.jpg` |
+| Fried calamari | [Source](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) | likely; `calamari.jpg` |
+| Sour beef & dumplings | [Source](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) | likely; `sour-beef.jpg` |
+| Shrimp salad platter | [Source](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) | likely; `shrimp-salad-platter.jpg` |
+| Beef Tips over Egg Noodles | [Source](https://www.facebook.com/photo.php?fbid=4219645338050725&set=pb.100042693473168.-2207520000&type=3) | confirmed; `beef-tips.jpg` |
+| Italian Meatloaf | [Source](https://www.facebook.com/photo.php?fbid=4135610493120877&set=pb.100042693473168.-2207520000&type=3) | confirmed; `italian-meatloaf.jpg` |
+| Beef Stew served with Corn Bread | [Source](https://www.facebook.com/photo.php?fbid=4121730914508835&set=pb.100042693473168.-2207520000&type=3) | confirmed; `beef-stew.jpg` |
+| Roast Pork | [Source](https://www.facebook.com/photo.php?fbid=4069562869725640&set=pb.100042693473168.-2207520000&type=3) | confirmed; `roast-pork.jpg` |
+| Spinach Salad w/Grilled Chicken | [Source](https://www.facebook.com/photo.php?fbid=4069882779693649&set=pb.100042693473168.-2207520000&type=3) | confirmed; `spinach-chicken.jpg` |
+| Liver & Onions with mashed potatoes | [Source](https://www.facebook.com/photo.php?fbid=4116086215073305&set=pb.100042693473168.-2207520000&type=3) | confirmed; `liver-onions.jpg` |
+| Shrimp Scampi served over Linguini | [Source](https://www.facebook.com/photo.php?fbid=4177090318972894&set=pb.100042693473168.-2207520000&type=3) | confirmed; `shrimp-scampi.jpg` |
+
+Fried Calamari and Shrimp Salad Platter are named on the [matched BringMeThat menu](https://www.bringmethat.com/t/md/parkville/21234/johnny-dees-lounge). That menu exposed67 named cards, all with generic storefront placeholder images; three detail dialogs had no food photo. Its prices, fulfillment and current availability are not verified or published.
+
+The exact-address [Restaurantji gallery](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) exposed36 unique photos, with original source credit retained privately. Direct gallery selections comprise club sandwich, Reuben, calamari, sour beef/dumplings and shrimp salad platter. Four further gallery compositions were identified by actual official Facebook captions and sourced from those official renditions. Other duplicate plates, raw preparation trays and people/venue photos are not counted as additional menu dishes.
+
+Matching [DoorDash listing](https://www.doordash.com/store/johnny-dees-lounge-parkville-359683/) reports inactive and blocks full menu access; matching [Grubhub listing](https://www.grubhub.com/restaurant/johnny-dees-lounge-1705-amuskai-rd-parkville/1550810) returns410. Bounded ChowNow/Uber Eats searches did not find an exact accessible match. Official website still404. No current online-order link was verified. These are coverage gaps, not evidence that the restaurant never used these services.

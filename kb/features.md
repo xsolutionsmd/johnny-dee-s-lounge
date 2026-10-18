@@ -1,6 +1,16 @@
 # Features
 
-## R5 correction ready for live review
+## R7 menu-photo behavior
+
+Menu now contains38 sourced selections and20 matching dish photos. All six states
+remain: All38, Sandwiches7, Seafood6, Classics4, Specials12, Soups & salads9.
+Photographed dishes form aligned two-column lists on desktop and one column on
+phones; unpictured items remain readable text without empty placeholders.
+Historical specials and changing availability stay explicit. No new ordering,
+submission or backend flow. Four native pages and verified destinations remain.
+
+
+## Current R5/R6 accepted state
 
 Expanded28-item published selection with six local category states (All,
 Sandwiches, Seafood, Classics, Specials, Soups & salads); eight individual official
@@ -8,7 +18,8 @@ food/gathering photos plus the actual logo; Home photo viewer;500ms sliding mobi
 drawer, soft page/section/filter transitions and reduced motion. All interactions
 remain local or use the verified phone/Maps/Facebook destinations. No new backend.
 The latest contract is [API](../docs/API.md). Earlier acceptance below is historical;
-R5 pre-release checks are recorded below; live acceptance remains pending.
+R5 full LIVE review and R6 focused call-target recheck passed. Exact production
+revision: d8dfdb5562cf358a3f63aa6330b5139d80953af5.
 
 Static multipage site with integrated contact/directions and local menu browsing. This speed-first scope uses no database, payments, submission endpoint, or staff admin.
 
@@ -89,4 +100,11 @@ all passed October17-18. Live route/reload and Sol review evidence follows relea
 | pre | Gallery | Open, next, Escape and opener restoration |375px phone| Browser controls and ArrowRight | pass | Photo/caption change, contained image, scroll unlock |
 | pre | Visual fit | Eight actual photos, one family, corrected hero/menu proportions |1440/375;320Visit| Rendered comparison and measured geometry | pass | Sol blueprint P1/P2/P3 addressed by Astra; production check19files |
 
-Live acceptance is pending the R5 release and fresh hands-on Sol review.
+| live | Full interaction review | All pages; six filters/rapid/keyboard, all gallery paths, drawer focus/outside/Escape/resize, native direct loads/reloads/back/forward and CTA destinations |1440/375;320 controls| Sol hands-on LIVE review at57edc5e | pass | Prior full review; sole P3 call width corrected by Astra and verified below |
+| live | Call-target correction | All four shared headers:44x44, centered icon, parent containment, zero overflow; actual added-padding clicks reach correct tel destination with external dispatch prevented |375x812 and320x812| Sol focused LIVE recheck atd8dfdb5 | pass | Eight measured/trusted-click checks; nav open/close/focus containment and desktop regression also pass |
+| live | Final release routes | All four documents direct-load and uncached reload over HTTPS in all three environments; exact own branch revision, health and noindex |all| Read-only release audit and version verifier after final preview pushes | pass | Production staysd8dfdb5; previews carry the same app plus final documentation; consult each /version.json and Actions |
+
+The19-file production/static check at sourcec5722dbe198e2b96eb76521e6793c32c628e72b4
+is Astra's validated build evidence; no redundant local rebuild was run for handoff.
+Physical touch, broader browser coverage and runtime reduced-motion emulation remain
+unverified. Source reduced-motion rules were checked; no real call was dispatched.
