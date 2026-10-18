@@ -1,7 +1,7 @@
 # Handoff
 
 <!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T01:07:01.372744+00:00):
+Pipeline status (generated 2026-10-18T01:13:40.744047+00:00):
 
 - **identity**: done
 - **research**: done
@@ -11,7 +11,7 @@ Pipeline status (generated 2026-10-18T01:07:01.372744+00:00):
 - **infra**: done
 - **template**: done
 - **build**: done
-- **deploy**: todo: verify each environment after the build receipt: production, derek-dev, abdul-dev
+- **deploy**: done
 <!-- xs-status:end -->
 
 ## Current state
@@ -21,7 +21,7 @@ Repository: https://github.com/xsolutionsmd/johnny-dee-s-lounge.
 The initial direct server release preceded GitHub/Actions, as requested. GitHub now
 has main, derek-dev and abdul-dev, independent release workflows and environments.
 PR2 published the visible reference-led correction at5e719dc to allthree environments.
-This source also includes Astra's scoped follow-up to the sole Sol finding.
+PR3 published Astra's scoped follow-up to the sole Sol finding at61ee672. Allthree environments passed final route/revision checks. The preview branches may carry a later documentation-only handoff commit; app source matches production.
 
 - Production: https://johnny-dee-s-lounge.xsolutionsmd.com
 - Derek preview: https://johnny-dee-s-lounge-derek-dev.xsolutionsmd.com
@@ -58,8 +58,7 @@ First corrective release5e719dc: all12route/environment combinations returned200
 twice, allsix CI/release runs passed, actual production browser direct loads and
 reloads passed. Filters, mobile nav/Escape, active pages, native history, sourced
 phone/Maps/Facebook actions, real images and320px Visit containment were checked.
-The final one-rule Catering fix passed targeted desktop/phone inspection and
-production/static check. docs/VALIDATION.md records the review and check scope.
+The final one-rule Catering fix passed production/static check and targeted LIVE desktop/phone inspection at61ee672. All12page/environment combinations again returned200 twice at that exact revision. docs/VALIDATION.md records the review and check scope.
 
 Use Actions and `/version.json` to check the current release; the reproducible
 `scripts/verify-pages.py BASE_URL --revision SHA` proves every direct route/refresh.

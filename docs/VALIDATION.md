@@ -45,3 +45,12 @@ check passed11files. No visual finding was deferred. The release workflow verifi
 the active revision; use the live version endpoints and scripts/verify-pages.py
 for current per-environment evidence.
 This section supersedes the initial visual design above, not its historical evidence.
+
+
+Final corrective release61ee672d465ec770703c019d493cbd428fd28f5c: allthree
+origins healthy, exact revision and all12page/environment combinations returned
+200 twice. Production Catering1440 labels now share540.5625/634.9921875 row tops
+and aligned separators;375 stays one335px column with contained buttons and no
+overflow. Astra visually inspected both. No review findings remain deferred.
+Preview-only final KB commits preserve the identical app source; their deployed
+revision is recorded by Actions and their uncached version endpoints.
