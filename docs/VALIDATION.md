@@ -10,4 +10,25 @@ Sol inspected rendered live pages at 1440×900 and 375×812, including full-page
 
 The release workflow verifies the deployed revision; `scripts/verify-pages.py BASE_URL --revision SHA` checks each route twice, distinct content, noindex and version. Exact current revisions are at each environment's `/version.json` and in GitHub Actions/deployments. Detailed screenshots, operational receipts and Slack delivery history are retained in the private project handoff.
 
-Limits: no current complete owner-issued menu/prices, current daily hours confirmation, catering terms/capacity, or photo reuse permission. The six menu names are sourced examples. Listed hours carry a phone-confirmation note. The site uses licensed fonts and original graphics; unapproved reference photography is excluded. No booking, ordering, forms, database or staff-delivery integration is implied. This was a focused Chromium desktop/mobile pass, not exhaustive cross-browser certification.
+Initial-release limits: no current complete owner-issued menu/prices, current daily hours confirmation or catering terms/capacity. Photo permission was initially unknown and is now confirmed through Derek?s standing instruction. The six menu names are sourced examples. Listed hours carry a phone-confirmation note. That initial design used licensed fonts and original graphics; the current correction replaces it with the approved authentic logo and food collage. No booking, ordering, forms, database or staff-delivery integration is implied. This was a focused Chromium desktop/mobile pass, not exhaustive cross-browser certification.
+
+
+## Reference-led correction, October 17-18, 2026
+
+Astra selected Joe Allen after inspecting company facts, real assets and existing
+menu/contact/directions functions. Desktop/mobile captures and concrete layout,
+type, spacing and flow notes went to Claude. The actual four-page implementation
+now uses the approved tankard logo, real food collage, photo-led Home, a menu-sheet
+layout and one Instrument Sans family. Reference and result were compared at
+1440x900 and375x812. Source images keep their proportions and are not enlarged.
+
+Final local production build/static checks passed (11 built files). Astra inspected
+all four rendered pages on desktop and phone, image loads and consistent fonts;
+Visit also passed320px overflow/control containment. All/Seafood/Classics changed
+visible menu groups correctly. Mobile navigation opened, Escape closed/refocused,
+and a native Menu-to-Visit navigation plus back/forward restored distinct pages
+and active labels. No external calls/orders were made. Home firstview includes
+food, identity and actions; three desktop visit actions share a baseline.
+
+Release checks and the fresh rendered-live Sol review are the next milestone.
+This section supersedes the initial visual design above, not its historical evidence.

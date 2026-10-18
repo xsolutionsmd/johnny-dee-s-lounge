@@ -85,22 +85,30 @@
       ]
     },
     "template": {
-      "status": "pending"
+      "status": "done",
+      "recorded": "2026-10-18T00:52:43.308102+00:00",
+      "evidence": [
+        "Astra post-launch corrective selection: https://joeallenrestaurant.com/ home, menu, hours/location inspected desktop/mobile; menu switching exercised. Company blackwhite tankard and plated-food identity, actual Meta embedded collage, and local menu/phone/directions scope mapped in kb/design-brief.md. Initial release had no selected template; corrective Claude revision pending.",
+        "Astra inspected Joe Allen home/menu/location at 1440x900 and 375x812; category switching, mobile navigation and directions observed. Function-first mapping includes Minetta mobile tel action. Authentic local food collage and tankard logo mapped in design brief. Matching-view comparison and concrete capture/type/spacing blueprint supplied to Claude for focused photo-led refinement."
+      ]
     },
     "build": {
       "status": "done",
-      "recorded": "2026-10-17T23:53:48.294179+00:00",
+      "recorded": "2026-10-18T00:55:17.550232+00:00",
       "evidence": [
-        "Claude initial four-page UI, Astra menu filter, production build and ARM64 origin checks passed. Sol rendered live desktop/mobile review completed; Astra fixed its three findings and inspected affected desktop/mobile views; npm run check passes."
+        "Claude initial four-page UI, Astra menu filter, production build and ARM64 origin checks passed. Sol rendered live desktop/mobile review completed; Astra fixed its three findings and inspected affected desktop/mobile views; npm run check passes.",
+        "Claude reference-led four-page rewrite with official logo/food; Astra final npm check11files, desktop1440/mobile375 allpages,320Visitcontainment, filters/mobileEscape/nav/history, actual image and font checks passed. Fresh live Sol review follows release.",
+        "Final app source2bf4dc2: production check and real1440/375browser pass; current pre acceptance rows document actual checks. Live row remains pending until corrective deployment."
       ],
       "inputs_sha256": {
-        "kb/features.md": "f7ca926a92afd565ff4a93e99cfc5bbc91eed1278f75a5d38e1a749ed381b8da",
-        "kb/design-brief.md": "fa13f773361eed8b370b028c58486e331e20a020e56bc242760d814272a208b2"
-      }
+        "kb/features.md": "e780b2075e5141dccc784a8f8ea4da8b44f68f82e0a17b9221b51d32916e05f7",
+        "kb/design-brief.md": "19a3620a590a2b98aa034375209bb4f6e3a35407f2d3cb68ec8d1f433b836a48"
+      },
+      "revision": "2bf4dc2"
     },
     "deploy": {
       "status": "pending"
     }
   },
-  "updated": "2026-10-17T23:53:48.297247+00:00"
+  "updated": "2026-10-18T00:55:17.559082+00:00"
 }
