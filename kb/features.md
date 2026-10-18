@@ -68,4 +68,4 @@ all passed October17-18. Live route/reload and Sol review evidence follows relea
 | pre | Multipage | Four distinct documents and active navigation | desktop/mobile | Production check and rendered browser | pass | October18 corrective source: npm run check11files; four actual pages1440/375 |
 | pre | Controls | Filters, mobile disclosure/Escape and native history | mobile | Browser interaction | pass | All/Seafood/Classics; Menu-to-Visit; back/forward; Escape focus restored |
 | pre | Media and layout | Actual approved assets, one font, contained controls | desktop/mobile | Visual and DOM inspection | pass | Real logo/food load;1440/375 all pages;320Visit no overflow; Home buttons inside containers |
-| live | Multipage | Four routes direct-load and refresh on all environments | all | HTTPS helper and browser | pending | Corrective release not yet published |
+| live | Multipage | Four routes direct-load and refresh on all environments | all | HTTPS helper and browser | pass | 5e719dc: all12environment/route combinations HTTP200 twice, exact revisions and noindex; production rendered assets confirmed |

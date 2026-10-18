@@ -161,6 +161,7 @@ button { font: inherit; }
 .sheet > .text-link { margin-top: 2rem; }
 @media (min-width: 700px) {
   .dish-list { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: clamp(2.5rem, 6vw, 5rem); }
+  .prepare li { justify-content: flex-start; }
 }
 
 .sheet-section { padding-top: clamp(1rem, 3vw, 2rem); }

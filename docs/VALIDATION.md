@@ -30,5 +30,18 @@ and a native Menu-to-Visit navigation plus back/forward restored distinct pages
 and active labels. No external calls/orders were made. Home firstview includes
 food, identity and actions; three desktop visit actions share a baseline.
 
-Release checks and the fresh rendered-live Sol review are the next milestone.
+First template release5e719dc passed all12 route/environment combinations twice,
+exact source versions, noindex and all six push-event CI/release runs. Actual
+production browser navigation+reload of every route also passed, with loaded local
+media and no horizontal overflow. Gateway bytes were unchanged; all24containers
+healthy. The concurrent Charcoal release changed only its own three images.
+
+Fresh Sol High inspected allfour LIVE pages at1440x900/375x812, including lower
+sections, mobile nav, menu states and matching reference captures. No blocking
+finding. The sole P3 was an11.25px desktop Catering label offset. Astra's one-rule
+scoped correction top-aligns the preparation rows at desktop widths. Local heading
+tops and row bottoms now match; phone remains one contained column. Final production
+check passed11files. No visual finding was deferred. The release workflow verifies
+the active revision; use the live version endpoints and scripts/verify-pages.py
+for current per-environment evidence.
 This section supersedes the initial visual design above, not its historical evidence.
