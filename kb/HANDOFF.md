@@ -1,7 +1,7 @@
 # Handoff
 
 <!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T00:55:17.708530+00:00):
+Pipeline status (generated 2026-10-18T01:07:01.372744+00:00):
 
 - **identity**: done
 - **research**: done
@@ -11,7 +11,7 @@ Pipeline status (generated 2026-10-18T00:55:17.708530+00:00):
 - **infra**: done
 - **template**: done
 - **build**: done
-- **deploy**: todo: functional acceptance: every live row in kb/features.md ## Acceptance must pass (0/1 passing; at least one required)
+- **deploy**: todo: verify each environment after the build receipt: production, derek-dev, abdul-dev
 <!-- xs-status:end -->
 
 ## Current state
