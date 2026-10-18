@@ -1,75 +1,69 @@
 # Handoff
 
-<!-- xs-status:start -->
-Pipeline status (generated 2026-10-18T01:07:01.372744+00:00):
+## Current milestone
 
-- **identity**: done
-- **research**: done
-- **spec**: done
-- **assets**: done
-- **delivery**: done
-- **infra**: done
-- **template**: done
-- **build**: done
-- **deploy**: todo: verify each environment after the build receipt: production, derek-dev, abdul-dev
-<!-- xs-status:end -->
-
-## Current state
-
-Workflow: speed-first. Four real pages `/`, `/menu/`, `/catering/`, `/visit/`.
-Repository: https://github.com/xsolutionsmd/johnny-dee-s-lounge.
-The initial direct server release preceded GitHub/Actions, as requested. GitHub now
-has main, derek-dev and abdul-dev, independent release workflows and environments.
-PR2 published the visible reference-led correction at5e719dc to allthree environments.
-This source also includes Astra's scoped follow-up to the sole Sol finding.
+R5 corrective source is ready for the existing preview/PR/main release path.
+The previous61ee672production release is still live until the new Actions release
+is verified. The new implementation and Sol reference-fit analysis are complete;
+post-publication interaction review, final environment receipts and expanded asset
+delivery are pending. Do not mistake older completed acceptance for this revision.
 
 - Production: https://johnny-dee-s-lounge.xsolutionsmd.com
 - Derek preview: https://johnny-dee-s-lounge-derek-dev.xsolutionsmd.com
 - Abdul preview: https://johnny-dee-s-lounge-abdul-dev.xsolutionsmd.com
+- Repository: https://github.com/xsolutionsmd/johnny-dee-s-lounge
 - Actions: https://github.com/xsolutionsmd/johnny-dee-s-lounge/actions
 
-Each `/version.json` is the authoritative current deployed revision. Changes go
-through the protected-main PR route; main is synced back to both previews.
+The first server release preceded infrastructure. Existing main/derek-dev/abdul-dev
+branches, protections, Actions and independent Oracle environments are reused.
+Develop on your own preview branch; a reviewed authorized PR into main releases
+production, followed by merging main back into both previews. `/version.json`
+and the corresponding Actions run establish the current deployed revision.
 
-## Reference, authentic assets and review
+## R5 content and reference correction, October18,2026
 
-The first release lacked an inspected template. Astra then selected Joe Allen
-from three inspected live candidates after deciding the menu/contact/directions
-scope from research. Minetta supplies only the observed mobile tel behavior
-missing from Joe Allen. Captures and concrete component/type/spacing notes went
-to Claude. Exact flow mapping and rationale are in features.md and design-brief.md.
+The requested correction replaces the sparse collage treatment with eight
+individual official food/gathering photographs and the intact tankard logo.
+The menu now contains28 sourced selections across five groups plus All; historical
+specials are qualified and no unverified price or current availability is implied.
+Four native URLs remain: `/`, `/menu/`, `/catering/`, `/visit/`.
 
-The actual site now has the real tankard logo, photo-led Home, genuine food
-collage on Home/Menu, balanced navigation, restrained menu sheets and one authored
-Instrument Sans family. The two official images are owner-approved under Derek's
-standing instruction; media.md records provenance and actual page mapping.
-Private originals and operational/commercial records stay outside this repository.
+Astra implemented this correction under the explicit no-Claude instruction.
+Sol High reconstructed Joe Allen's actual desktop/phone layouts and interactions
+after the provisional draft existed. The timing is explicit in the blueprint;
+no retrospective pre-build or successful REA claim is made. Browser/source evidence
+was sufficient for the measured fit pass; REA had no supported task-owned CDP port.
+The newer role default does not require recoding completed work solely for ownership.
 
-Sol inspected the released four pages on desktop and phone against the reference.
-It confirmed a coherent professional result with actual assets and consistent
-fonts; the low-resolution collage cannot reproduce a full photographic panorama.
-The sole P3 was a desktop Catering label offset. Astra top-aligned those rows,
-checked matching heading/separator positions and unchanged phone containment,
-and passed the final build. No visual finding remains deferred.
+Astra addressed all three fit findings: hero images now match their728px desktop
+frame rather than overflowing at1024px; Menu uses an800px sheet with a shorter
+intro, heading at204px and filters at351px; Home has a clear direct Call the lounge
+action. Mobile opening now transfers focus to Close, traps Tab/Shift+Tab, and
+Escape restores the toggle. Actual gallery has next/previous, arrow keys, Escape
+and opener focus restoration. One self-hosted type family spans all pages.
 
-## Verification and continuation
+Local production/static check passed19built files. Rendered1440x900 and375x812
+pages were inspected; Visit controls and all six menu states also passed320px
+containment. All filters return expected counts6/4/4/6/8/28 and the correct groups.
+Images load; dialog opens/advances/closes; drawer focus cycle and background inert
+state pass. Reduced-motion rules were source-checked; physical touch and broad
+cross-browser testing are not claimed. No real calls, orders or messages were sent.
 
-First corrective release5e719dc: all12route/environment combinations returned200
-twice, allsix CI/release runs passed, actual production browser direct loads and
-reloads passed. Filters, mobile nav/Escape, active pages, native history, sourced
-phone/Maps/Facebook actions, real images and320px Visit containment were checked.
-The final one-rule Catering fix passed targeted desktop/phone inspection and
-production/static check. docs/VALIDATION.md records the review and check scope.
+This record is pre-release readiness, not final LIVE acceptance. Publish through
+existing preview/PR/main path, verify all three environments, then fresh Sol High
+LIVE interaction review and Astra fixes. Final Sol handoff/delivery follows.
 
-Use Actions and `/version.json` to check the current release; the reproducible
-`scripts/verify-pages.py BASE_URL --revision SHA` proves every direct route/refresh.
-The private checkpoint owns exact rollout receipts, screenshots, Slack milestones
-and disposable cleanup. Future substantive changes require their own authorization.
+## Reference and evidence
 
-## Remaining owner content
+Primary: https://joeallenrestaurant.com/ plus /menus/, /about/, /hours-location/.
+Read [template blueprint](template-blueprint.md), [design brief](design-brief.md),
+[media](media.md), [features](features.md), [API contract](../docs/API.md) and
+[validation](../docs/VALIDATION.md). Captures/operational receipts are private.
+This is original implementation with authorized company assets, not copied
+reference code or photography. Permission for official Facebook reuse is confirmed.
 
-Current full menu/prices, confirmed daily hours and catering terms/capacity.
-Higher-resolution food/interior photography would improve the image quality.
-Six sourced dish examples and listed hours remain qualified. Phone, Maps and
-Facebook are real destinations; no ordering, reservations or form delivery is
-simulated. Asset permission is no longer pending.
+## Remaining content inputs
+
+Current full menu/prices, confirmed daily hours and catering terms/capacity remain
+unverified. Published selections and past specials are qualified; hours ask callers
+to confirm. No fake ordering/reservation/form or backend delivery is represented.

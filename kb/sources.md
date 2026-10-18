@@ -20,3 +20,48 @@ The provisional embed was later superseded by local production copies after
 Derek reiterated his standing confirmation of owner permission. The food cover
 and [official logo photo](https://www.facebook.com/photo/?fbid=748612449905197&set=a.748612416571867)
 are mapped to pages in `kb/media.md`. No third-party Maps or competitor imagery.
+
+## Expanded official menu and photography evidence (R5)
+
+Observed October17–18,2026. Twelve indexed official item pages and seventeen
+business-published specials provide29 named offerings; the live old domain still
+returns404. These are published examples, not a verified current complete menu.
+The rendered menu combines selected examples with the six earlier sourced dishes.
+Current prices and availability remain unknown. The site says to call for them.
+
+| Offering | Source | Publication/freshness |
+|---|---|---|
+| Shrimp Salad Sandwich | [Official source](https://www.johnnydeeslounge.com/items/shrimp-salad-sandwich) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Greek salad | [Official source](https://www.johnnydeeslounge.com/items/greek) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Soft Crab platter | [Official source](https://www.johnnydeeslounge.com/items/soft-crab?location=johnny-dees-lounge&menu=our-menu) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Chef Prepared Catch of the Day | [Official source](https://www.johnnydeeslounge.com/items/chef-prepared-catch-of-the-day) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| The Lounge Club | [Official source](https://www.johnnydeeslounge.com/items/the-lounge-club) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Sour Beef & Dumplings | [Official source](https://www.johnnydeeslounge.com/items/sour-beef-and-dumplings) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| New York Strip Steak | [Official source](https://www.johnnydeeslounge.com/items/new-york-strip-steak) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Potato Salad | [Official source](https://www.johnnydeeslounge.com/items/potato-salad) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Soup Du Jour | [Official source](https://www.johnnydeeslounge.com/items/soup-du-jour) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Fried Oysters platter | [Official source](https://www.johnnydeeslounge.com/items/fried-oysters) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| French Dip | [Official source](https://www.johnnydeeslounge.com/items/french-dip) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Fried Oyster sandwich | [Official source](https://www.johnnydeeslounge.com/items/fried-oyster) | Undated indexed official item; index reported ~5months old; historical-official-indexed-item |
+| Seafood Club | [Official source](https://www.facebook.com/photo.php?fbid=1801544201278678&set=pb.100042693473168.-2207520000&type=3) | 2026-05-01; historical-official-special |
+| Shrimp Bisque | [Official source](https://www.facebook.com/photo.php?fbid=1801544201278678&set=pb.100042693473168.-2207520000&type=3) | 2026-05-01; historical-official-special |
+| Homemade Turkey Noodle Soup | [Official source](https://www.facebook.com/photo.php?fbid=1801544201278678&set=pb.100042693473168.-2207520000&type=3) | 2026-05-01; historical-official-special |
+| Homemade Chili | [Official source](https://www.facebook.com/photo.php?fbid=1801544201278678&set=pb.100042693473168.-2207520000&type=3) | 2026-05-01; historical-official-special |
+| House Salad with Ahi Tuna | [Official source](https://www.facebook.com/photo.php?fbid=1179688166797621&set=pb.100042693473168.-2207520000&type=3) | 2024-04-17; historical-official-special |
+| Baked Rigatoni with Meat Sauce | [Official source](https://www.facebook.com/photo.php?fbid=1179688166797621&set=pb.100042693473168.-2207520000&type=3) | 2024-04-17; historical-official-special |
+| Eggplant Parmesan | [Official source](https://www.facebook.com/photo.php?fbid=860845338681907&set=pb.100042693473168.-2207520000&type=3) | 2023-01-04; historical-official-special |
+| Homemade Turkey Pot Pie | [Official source](https://www.facebook.com/photo.php?fbid=810521040381004&set=pb.100042693473168.-2207520000&type=3) | 2022-11-09; historical-official-special |
+| Oysters (Wednesday special) | [Official source](https://www.facebook.com/photo.php?fbid=810521040381004&set=pb.100042693473168.-2207520000&type=3) | 2022-11-09; historical-official-special |
+| Pumpkin Ravioli | [Official source](https://www.facebook.com/photo.php?fbid=804720554294386&set=pb.100042693473168.-2207520000&type=3) | 2022-11-02; historical-official-special |
+| Shrimp Pasta Primavera | [Official source](https://www.facebook.com/photo.php?fbid=6114920521856521&set=pb.100042693473168.-2207520000&type=3) | 2022-07-13; historical-official-special |
+| Thanksgiving in July turkey dinner | [Official source](https://www.facebook.com/photo.php?fbid=6114920521856521&set=pb.100042693473168.-2207520000&type=3) | 2022-07-13; historical-official-special |
+| Penne with vegetables in rose cream sauce | [Official source](https://www.facebook.com/photo.php?fbid=5020228011325783&set=pb.100042693473168.-2207520000&type=3) | 2021-08-11; historical-official-special |
+| Shrimp Salad Stuffed Tomato | [Official source](https://www.facebook.com/photo.php?fbid=5020228011325783&set=pb.100042693473168.-2207520000&type=3) | 2021-08-11; historical-official-special |
+| Italian Cold Cut Sub | [Official source](https://www.facebook.com/photo.php?fbid=4419715034710420&set=pb.100042693473168.-2207520000&type=3) | 2021-01-27; historical-official-special |
+| Fresh Homemade Meatloaf | [Official source](https://www.facebook.com/photo.php?fbid=1962533081846455&set=pb.100042693473168.-2207520000&type=3) | 2026-10-09; dated-official-special |
+| Maryland Crab Soup | [Official source](https://www.facebook.com/photo.php?fbid=1962533081846455&set=pb.100042693473168.-2207520000&type=3) | 2026-10-09; dated-official-special |
+
+Photographs are official Facebook renditions with original dates/provenance in
+`media.md` and the private library. The2023 interior gathering does not establish a
+current event schedule or room capacity. No competitor, generated or Maps-reviewer
+photos were used. Only the actual business media is included in the public app.

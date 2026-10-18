@@ -1,5 +1,15 @@
 # Features
 
+## R5 correction ready for live review
+
+Expanded28-item published selection with six local category states (All,
+Sandwiches, Seafood, Classics, Specials, Soups & salads); eight individual official
+food/gathering photos plus the actual logo; Home photo viewer;500ms sliding mobile
+drawer, soft page/section/filter transitions and reduced motion. All interactions
+remain local or use the verified phone/Maps/Facebook destinations. No new backend.
+The latest contract is [API](../docs/API.md). Earlier acceptance below is historical;
+R5 pre-release checks are recorded below; live acceptance remains pending.
+
 Static multipage site with integrated contact/directions and local menu browsing. This speed-first scope uses no database, payments, submission endpoint, or staff admin.
 
 ## Selected features
@@ -69,3 +79,14 @@ all passed October17-18. Live route/reload and Sol review evidence follows relea
 | pre | Controls | Filters, mobile disclosure/Escape and native history | mobile | Browser interaction | pass | All/Seafood/Classics; Menu-to-Visit; back/forward; Escape focus restored |
 | pre | Media and layout | Actual approved assets, one font, contained controls | desktop/mobile | Visual and DOM inspection | pass | Real logo/food load;1440/375 all pages;320Visit no overflow; Home buttons inside containers |
 | live | Multipage | Four routes direct-load and refresh on all environments | all | HTTPS helper and browser | pass | 5e719dc: all12environment/route combinations HTTP200 twice, exact revisions and noindex; production rendered assets confirmed |
+
+## R5 acceptance
+
+| Phase | Feature | Scenario | Viewport | How tested | Result | Evidence |
+|---|---|---|---|---|---|---|
+| pre | Menu | Six category states and28 sourced selections |320px phone| Real clicks and visible group/count checks | pass | Counts6/4/4/6/8/28; no overflow |
+| pre | Drawer | Open focus, Tab wrap, Escape/refocus and inert background |320px phone| Browser keyboard actions | pass | Close receives focus; reverse Tab reaches phone; forward Tab returns Close; Escape returns toggle |
+| pre | Gallery | Open, next, Escape and opener restoration |375px phone| Browser controls and ArrowRight | pass | Photo/caption change, contained image, scroll unlock |
+| pre | Visual fit | Eight actual photos, one family, corrected hero/menu proportions |1440/375;320Visit| Rendered comparison and measured geometry | pass | Sol blueprint P1/P2/P3 addressed by Astra; production check19files |
+
+Live acceptance is pending the R5 release and fresh hands-on Sol review.

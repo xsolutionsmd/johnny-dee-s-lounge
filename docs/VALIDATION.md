@@ -45,3 +45,46 @@ check passed11files. No visual finding was deferred. The release workflow verifi
 the active revision; use the live version endpoints and scripts/verify-pages.py
 for current per-environment evidence.
 This section supersedes the initial visual design above, not its historical evidence.
+
+
+Final corrective release61ee672d465ec770703c019d493cbd428fd28f5c: allthree
+origins healthy, exact revision and all12page/environment combinations returned
+200 twice. Production Catering1440 labels now share540.5625/634.9921875 row tops
+and aligned separators;375 stays one335px column with contained buttons and no
+overflow. Astra visually inspected both. No review findings remain deferred.
+Preview-only final KB commits preserve the identical app source; their deployed
+revision is recorded by Actions and their uncached version endpoints.
+
+
+## R5 content and reference correction, October18,2026
+
+The requested correction replaces the sparse collage treatment with eight
+individual official food/gathering photographs and the intact tankard logo.
+The menu now contains28 sourced selections across five groups plus All; historical
+specials are qualified and no unverified price or current availability is implied.
+Four native URLs remain: `/`, `/menu/`, `/catering/`, `/visit/`.
+
+Astra implemented this correction under the explicit no-Claude instruction.
+Sol High reconstructed Joe Allen's actual desktop/phone layouts and interactions
+after the provisional draft existed. The timing is explicit in the blueprint;
+no retrospective pre-build or successful REA claim is made. Browser/source evidence
+was sufficient for the measured fit pass; REA had no supported task-owned CDP port.
+The newer role default does not require recoding completed work solely for ownership.
+
+Astra addressed all three fit findings: hero images now match their728px desktop
+frame rather than overflowing at1024px; Menu uses an800px sheet with a shorter
+intro, heading at204px and filters at351px; Home has a clear direct Call the lounge
+action. Mobile opening now transfers focus to Close, traps Tab/Shift+Tab, and
+Escape restores the toggle. Actual gallery has next/previous, arrow keys, Escape
+and opener focus restoration. One self-hosted type family spans all pages.
+
+Local production/static check passed19built files. Rendered1440x900 and375x812
+pages were inspected; Visit controls and all six menu states also passed320px
+containment. All filters return expected counts6/4/4/6/8/28 and the correct groups.
+Images load; dialog opens/advances/closes; drawer focus cycle and background inert
+state pass. Reduced-motion rules were source-checked; physical touch and broad
+cross-browser testing are not claimed. No real calls, orders or messages were sent.
+
+This record is pre-release readiness, not final LIVE acceptance. Publish through
+existing preview/PR/main path, verify all three environments, then fresh Sol High
+LIVE interaction review and Astra fixes. Final Sol handoff/delivery follows.
