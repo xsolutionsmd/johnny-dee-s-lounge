@@ -166,3 +166,17 @@ that useful depth. Focus correction on the desktop hero grid's intrinsic-height
 crop and the Menu introduction/column proportions. These are fit findings for
 the active correction, not a new design direction. A fresh post-publication
 review must still exercise every included customer interaction and final state.
+
+
+## Final R5/R6 disposition - October18 UTC / October17 EDT,2026
+
+Astra resolved the measured hero728px frame, compact800px Menu and clear Home call
+findings. Sol's full LIVE review at57edc5e passed their rendered fit and all selected
+interactions, leaving one P3: the shared phone call target was20x44px. Astra's scoped
+mobile minimum-width/centering change passed its19-file build check; PR5 released
+productiond8dfdb5562cf358a3f63aa6330b5139d80953af5. Sol's independent focused LIVE
+recheck passed all four headers at375/320:44x44, centered, parent-contained, no
+overflow; actual padding clicks reached the correct tel link with dispatch blocked.
+Drawer focus/dismissal/containment and desktop header regression passed. No finding
+is deferred. The prior reference analysis and authorship/timing/REA limitations
+remain unchanged; no redesign or repeated reference reconstruction was performed.

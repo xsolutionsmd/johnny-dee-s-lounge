@@ -1,5 +1,7 @@
 # Design brief
 
+> Workflow supersession - October 17, 2026: no Stitch attempts or fallbacks for new work. Follow the repository reference-design skill and canonical `~/.codex/skills/xs-website/SKILL.md` reconstruction/delivery policy. Existing design decisions, task-specific role restrictions and confirmed asset permissions remain effective. Earlier tool attempts/authorship below are dated evidence, not instructions to repeat them.
+
 ## Current direction and authority
 
 Derek's October17-18 correction requires fuller real photography/menu content,

@@ -94,7 +94,7 @@
     },
     "build": {
       "status": "done",
-      "recorded": "2026-10-18T02:43:23.114825+00:00",
+      "recorded": "2026-10-18T03:14:05.473082+00:00",
       "evidence": [
         "Claude initial four-page UI, Astra menu filter, production build and ARM64 origin checks passed. Sol rendered live desktop/mobile review completed; Astra fixed its three findings and inspected affected desktop/mobile views; npm run check passes.",
         "Claude reference-led four-page rewrite with official logo/food; Astra final npm check11files, desktop1440/mobile375 allpages,320Visitcontainment, filters/mobileEscape/nav/history, actual image and font checks passed. Fresh live Sol review follows release.",
@@ -103,17 +103,26 @@
         "Astra Sol P3 scoped desktop Catering alignment correction; npmruncheck11files and actual desktop matching heading/separator positions,375singlecolumn containment passed. Release verification follows.",
         "Exact committed app source71978ad4729e827fea924fc2f62d241d0cb2a0d0 confirmed by git rev-parse. Focused Sol finding fixed and checked.",
         "R5 19-file production/static check; desktop/mobile actual images; menu states, drawer keyboard and gallery pass; Sol blueprint fit fixes implemented. Live review pending.",
-        "R5 production/static check19files and desktop/mobile/keyboard/filter/gallery checks passed; documentation reconciles standing whole-library owner permission; app unchanged."
+        "R5 production/static check19files and desktop/mobile/keyboard/filter/gallery checks passed; documentation reconciles standing whole-library owner permission; app unchanged.",
+        "R6 checked sourcec5722dbe198e2b96eb76521e6793c32c628e72b4: Astra validated production/static19files; Sol independent focused LIVE recheckd8dfdb5 allfour headers375/320 actual padded clicks prevented, nav and desktop regressions PASS. Final features/designbrief fingerprints refreshed; no new local rebuild or retrofit of newer workflow gates."
       ],
       "inputs_sha256": {
-        "kb/features.md": "1d41fcb6491aa9b4fd4e28f859e60d0ece305b00664ce31ed07408bf95c732f8",
-        "kb/design-brief.md": "12b2d131c38b3395cb8837584b78637c2dfa3cef0d02336913001ad7bd721133"
+        "kb/features.md": "c0fc72c09f265f2c60f4e1747b9906424574adf126d519ec1a5134c94b9c8ab6",
+        "kb/design-brief.md": "9e5c6dc8f4af4850be07d3083d360b155fd17469734d98ddb6e04cd6f2663f93"
       },
-      "revision": "a1b6aed16641d891d56740c88468954ee225a468"
+      "revision": "c5722dbe198e2b96eb76521e6793c32c628e72b4"
     },
     "deploy": {
       "status": "pending"
     }
   },
-  "updated": "2026-10-18T02:43:23.128719+00:00"
+  "updated": "2026-10-18T03:14:05.473082+00:00",
+  "handoff": {
+    "scope": "R5 content/reference correction and sole R6 call-target fix accepted live",
+    "production_revision": "d8dfdb5562cf358a3f63aa6330b5139d80953af5",
+    "build_revision": "c5722dbe198e2b96eb76521e6793c32c628e72b4",
+    "review": "Sol full R5 and focused R6 pass; no unresolved findings",
+    "workflow_compatibility": "Legacy run: new content/reconstruct/backend/refine gates remain unbackfilled; no fabricated completion. Current no-Claude override and REA unavailability retained.",
+    "preview_revisions": "Each preview version endpoint and Actions identifies its own final documentation commit; app tree identical to production."
+  }
 }

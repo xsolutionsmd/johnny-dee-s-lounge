@@ -1,4 +1,4 @@
-﻿# Design input — Johnny Dee's Lounge
+# Design input — Johnny Dee's Lounge
 
 Build FOUR genuinely separate pages: Home `/`, Menu `/menu/`, Catering & Events `/catering/`, Visit & Contact `/visit/`. About can be concise content on Home; do not add an empty filler page. EVERY primary nav tab is a page URL, never #section or homepage scrolling. Native multi-document navigation is ideal on the static Vite kit.
 
@@ -8,4 +8,4 @@ Media: Derek confirms owner permission for all gathered business photos/assets a
 
 Requirements: shared navigation/footer; clear active page; mobile nav; accessible contrast, visible focus and reduced motion; all controls contained within cards at 375px. No visitor-facing demo banners, code/product implementation explanations, fake booking/order form or social proof.
 
-User's speed-first exception: one strong bounded visual direction, one bounded Stitch attempt (up to five minutes), implementation, then main-agent desktop/mobile checks. No exhaustive reference hunt, REA/feature spec or all-code review loop. Scope and functional specification owned by Astra. No deployment/CI work for Claude.
+Current design route: no Stitch attempts or fallbacks. Follow `~/.codex/skills/xs-website/SKILL.md` and the repository reference-design skill. Preserve the current task-specific no-Claude correction in `kb/design-brief.md`; the default Claude preference does not reopen that explicit restriction or change recorded authorship. Astra retains scope/backend ownership; no infrastructure/deploy work belongs to frontend refinement. Coordinator acceptance and release controls remain separate.
