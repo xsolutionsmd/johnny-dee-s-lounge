@@ -94,21 +94,22 @@
     },
     "build": {
       "status": "done",
-      "recorded": "2026-10-18T00:55:17.550232+00:00",
+      "recorded": "2026-10-18T01:02:48.966271+00:00",
       "evidence": [
         "Claude initial four-page UI, Astra menu filter, production build and ARM64 origin checks passed. Sol rendered live desktop/mobile review completed; Astra fixed its three findings and inspected affected desktop/mobile views; npm run check passes.",
         "Claude reference-led four-page rewrite with official logo/food; Astra final npm check11files, desktop1440/mobile375 allpages,320Visitcontainment, filters/mobileEscape/nav/history, actual image and font checks passed. Fresh live Sol review follows release.",
-        "Final app source2bf4dc2: production check and real1440/375browser pass; current pre acceptance rows document actual checks. Live row remains pending until corrective deployment."
+        "Final app source2bf4dc2: production check and real1440/375browser pass; current pre acceptance rows document actual checks. Live row remains pending until corrective deployment.",
+        "App source unchanged from checked2bf4dc2; current acceptance live result updated from genuine5e719dc all3environment direct/reload checks and actual production browser refreshall4. Sol review pending."
       ],
       "inputs_sha256": {
         "kb/features.md": "e780b2075e5141dccc784a8f8ea4da8b44f68f82e0a17b9221b51d32916e05f7",
         "kb/design-brief.md": "19a3620a590a2b98aa034375209bb4f6e3a35407f2d3cb68ec8d1f433b836a48"
       },
-      "revision": "2bf4dc2"
+      "revision": "5e719dc881d3a187c6cc29cda46e57ccfbb196e4"
     },
     "deploy": {
       "status": "pending"
     }
   },
-  "updated": "2026-10-18T00:55:17.559082+00:00"
+  "updated": "2026-10-18T01:02:48.976559+00:00"
 }

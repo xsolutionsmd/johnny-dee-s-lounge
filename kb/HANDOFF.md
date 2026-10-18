@@ -17,38 +17,59 @@ Pipeline status (generated 2026-10-18T00:55:17.708530+00:00):
 ## Current state
 
 Workflow: speed-first. Four real pages `/`, `/menu/`, `/catering/`, `/visit/`.
-Production and both previews remain at `7a795575` while the authorized reference-led
-correction is prepared on `derek-dev`. Repository:
-https://github.com/xsolutionsmd/johnny-dee-s-lounge.
+Repository: https://github.com/xsolutionsmd/johnny-dee-s-lounge.
+The initial direct server release preceded GitHub/Actions, as requested. GitHub now
+has main, derek-dev and abdul-dev, independent release workflows and environments.
+PR2 published the visible reference-led correction at5e719dc to allthree environments.
+This source also includes Astra's scoped follow-up to the sole Sol finding.
 
-## Current correction
+- Production: https://johnny-dee-s-lounge.xsolutionsmd.com
+- Derek preview: https://johnny-dee-s-lounge-derek-dev.xsolutionsmd.com
+- Abdul preview: https://johnny-dee-s-lounge-abdul-dev.xsolutionsmd.com
+- Actions: https://github.com/xsolutionsmd/johnny-dee-s-lounge/actions
 
-The first release did not use an inspected live template. Following Derek's
-correction, Astra reviewed the existing functions, business facts and actual media,
-then inspected three real references on desktop/mobile. Joe Allen is selected for
-composition; Minetta contributes only a mobile tel-link behavior missing from Joe
-Allen. Exact function mapping and observations are in `features.md` and
-`design-brief.md`. Claude rebuilt all four pages accordingly: white/black theme,
-centered identity and balanced navigation, menu-sheet composition and one authored
-type family, Instrument Sans.
+Each `/version.json` is the authoritative current deployed revision. Changes go
+through the protected-main PR route; main is synced back to both previews.
 
-Derek's latest standing instruction confirms permission to use the business assets.
-The food collage and original tankard logo are selected local production images,
-with provenance and page mapping in `media.md`. The temporary embed-only approach
-was superseded before release. Claude completed the real-image integration and a focused photo-first refinement using supplied desktop/mobile reference captures and spacing notes.
-Original files and private operational/commercial notes remain outside this repo.
+## Reference, authentic assets and review
 
-## Verification and next action
+The first release lacked an inspected template. Astra then selected Joe Allen
+from three inspected live candidates after deciding the menu/contact/directions
+scope from research. Minetta supplies only the observed mobile tel behavior
+missing from Joe Allen. Captures and concrete component/type/spacing notes went
+to Claude. Exact flow mapping and rationale are in features.md and design-brief.md.
 
-The final corrective source passed npm run check (11 built files), actual desktop1440/phone375 inspection on all four pages, 320px Visit containment, local filters, mobile navigation/Escape and browser history. Both authentic assets load locally. Home photo leads directly below the masthead and all three visit actions align. Next: release by authorized protected-main PR, perform the
-requested fresh Sol High LIVE desktop/mobile review (reference fidelity, actual
-assets, typography and awkwardness), have Astra fix actionable findings, verify all
-three environments and send final Slack URL correction. Earlier checks in
-`docs/VALIDATION.md` describe the first delivery and cannot substitute for this pass.
+The actual site now has the real tankard logo, photo-led Home, genuine food
+collage on Home/Menu, balanced navigation, restrained menu sheets and one authored
+Instrument Sans family. The two official images are owner-approved under Derek's
+standing instruction; media.md records provenance and actual page mapping.
+Private originals and operational/commercial records stay outside this repository.
+
+Sol inspected the released four pages on desktop and phone against the reference.
+It confirmed a coherent professional result with actual assets and consistent
+fonts; the low-resolution collage cannot reproduce a full photographic panorama.
+The sole P3 was a desktop Catering label offset. Astra top-aligned those rows,
+checked matching heading/separator positions and unchanged phone containment,
+and passed the final build. No visual finding remains deferred.
+
+## Verification and continuation
+
+First corrective release5e719dc: all12route/environment combinations returned200
+twice, allsix CI/release runs passed, actual production browser direct loads and
+reloads passed. Filters, mobile nav/Escape, active pages, native history, sourced
+phone/Maps/Facebook actions, real images and320px Visit containment were checked.
+The final one-rule Catering fix passed targeted desktop/phone inspection and
+production/static check. docs/VALIDATION.md records the review and check scope.
+
+Use Actions and `/version.json` to check the current release; the reproducible
+`scripts/verify-pages.py BASE_URL --revision SHA` proves every direct route/refresh.
+The private checkpoint owns exact rollout receipts, screenshots, Slack milestones
+and disposable cleanup. Future substantive changes require their own authorization.
 
 ## Remaining owner content
 
 Current full menu/prices, confirmed daily hours and catering terms/capacity.
-Six customer-mentioned dish examples and listed hours remain qualified. Phone,
-Maps and official Facebook destinations are real; no order/reservation/form
-submission is simulated. Asset permission is no longer a pending question.
+Higher-resolution food/interior photography would improve the image quality.
+Six sourced dish examples and listed hours remain qualified. Phone, Maps and
+Facebook are real destinations; no ordering, reservations or form delivery is
+simulated. Asset permission is no longer pending.
