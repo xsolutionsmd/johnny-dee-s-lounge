@@ -2,9 +2,27 @@
 
 Observed 2026-10-17. **No current official menu verified.** Indexed official item pages are historical evidence, not current availability or pricing. [S4]
 
-## Customer-mentioned selection
+## Expanded published menu and specials (R5)
 
-Use this label instead of presenting a complete menu:
+October17–18 recovery found12 indexed official menu item pages and17 official
+Facebook special offerings. Exact URLs and dates are in the expanded table in
+[sources](sources.md#expanded-official-menu-and-photography-evidence-r5).
+The rendered28-item selection combines these with the earlier customer-mentioned
+dishes. It is explicitly a selection from published menus and past specials,
+not a current complete menu. No prices or live availability are asserted.
+Selected ingredient descriptions are taken only from the corresponding official
+historical item or post. The group of changing specials is labeled as past examples.
+
+Categories: Sandwiches, Seafood, Lounge classics, From the specials board, Soups
+and salads. Newly supported examples include The Lounge Club, French dip, fried
+oysters, New York strip steak, Greek salad, shrimp pasta primavera, eggplant
+Parmesan, pumpkin ravioli, turkey pot pie, Maryland crab soup and meatloaf.
+The meatloaf/crab soup poster is dated October9,2026; other specialties include
+older2021–2026 posts. Do not carry their old prices or schedules into current copy.
+
+## Earlier customer-mentioned selection
+
+Initial directory-backed selection, still historical/current availability unconfirmed:
 
 - Shrimp salad sandwich
 - Chicken Johnny Dee

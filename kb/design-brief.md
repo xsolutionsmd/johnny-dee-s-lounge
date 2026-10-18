@@ -1,5 +1,36 @@
 # Design brief
 
+## Current refinement: fuller photography, structure and motion
+
+Derek's October17–18 correction supersedes the prior sparse interpretation.
+Astra implements this refinement directly, with **no Claude**, then Sol reviews
+the rendered live result. Preserve the four native page URLs and actual business
+destinations. The selected functions remain menu browsing, call, catering inquiry,
+directions and social updates; a keyboard-accessible photo viewer supports the
+expanded real-photo gallery. No booking or checkout is introduced.
+
+Freshly inspected blueprint: https://joeallenrestaurant.com/ and its /menus/,
+/about/ and /hours-location/ pages, desktop1440×900 and phone375×812. Match the
+compact split navigation and overlapping centered brand, large photo directly
+below it, spacious centered menu introduction, compact category row and balanced
+two-column menu. Its About-page photo mosaic informs our real-food gallery beside
+company copy. Use Johnny Dee's tankard branding, restrained black/white/warm paper,
+one Instrument Sans family and only authentic business images.
+
+Motion observations: live mobile drawer slides320px from the left in500ms with
+page dimming; delivered styles use200ms interactive transitions and400ms image
+fades. Fade-up utilities of500/750ms exist in the delivered stylesheet but were
+not instantiated on the inspected Home/Menu/About pages. Our restrained section
+entrances and cross-document fades are intentional polish adaptations, not a
+claim those animations executed on the reference. Respect reduced motion. The
+reference gallery declares lightbox links; the parent's initial multi-match click
+did not establish runtime behavior. Sol's unique-target inspection owns that
+observation. Our native photo dialog must work, including Escape/focus restoration.
+
+Expanded media/menu evidence and page mapping are recorded in `media.md` and
+`sources.md` as recovered. Earlier assertions that no additional imagery/menu
+exists describe only the earlier bounded search and must not limit this pass.
+
 Speed-first build, 2026-10-17. Frontend by Claude Opus 5.5 (design sub-agent).
 
 ## Visitor job and primary action
