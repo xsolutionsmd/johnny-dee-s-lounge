@@ -1,5 +1,19 @@
 # Validation
 
+## R8 expanded menu photos ? local validation, October18,2026
+
+Astra verified29rendered photos across38menu selections; all29load and no horizontal
+overflow at375px. Desktop1440x900 changed category compositions and375px sandwich
+crops inspected. Six filters produce38/7/6/4/12/9items. The incorrect Lounge Club
+photo is removed; Italian-sub provenance retained. Soup-du-jour and oyster captions
+qualify the pictured preparation. No new functions, routes, fonts or CSS changes.
+
+Final local `npm run check` passes41built files. Asset verification passes48originals
+with no problems; public-source check passes. Repository visibility is PUBLIC, so
+existing standard GitHub Actions are the release route. Independent LIVE Sol review
+and exact production/preview revision checks follow publication; not yet claimed.
+
+
 ## R7 menu-photo change — local readiness
 
 38 sourced selections,20 rendered dish images;32-file production build/static check.

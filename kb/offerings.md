@@ -1,5 +1,10 @@
 # Offerings
 
+## R8 current rendered selection
+
+38historically sourced selections remain;29have accurate photographs. No current official menu or prices have been verified. Photo collection alone does not establish present availability. Previous28-item/20-photo counts below are dated history.
+
+
 Observed 2026-10-17. **No current official menu verified.** Indexed official item pages are historical evidence, not current availability or pricing. [S4]
 
 ## Expanded published menu and specials (R5)

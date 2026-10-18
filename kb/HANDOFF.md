@@ -1,5 +1,35 @@
 # Handoff
 
+## R8 expanded menu photography — October18,2026
+
+The requested correction adds ten accurate photo mappings and removes the
+disproven Lounge Club/Italian-sub duplication:29distinct photographs now accompany
+the38 menu selections. The nine unpictured items remain readable, with no borrowed
+or generated substitute. Missing: The Lounge Club; French dip; Chef’s catch of the
+day; New York strip steak; Baked rigatoni with meat sauce; Maryland crab soup;
+Turkey noodle; Homemade chili; Greek salad.
+
+Yelp’s52accessible photos (including27food details), all67Google Maps Food & drink
+entries and the reachable Instagram location gallery were inspected. Official and
+tagged public Facebook posts supplied further exact captions. Ordering listings
+retain their recorded inactive/unavailable/no-match limits. The private library
+contains48originals, a38-item rendered-menu reconciliation, source-level coverage,
+CSV and gallery. This is substantial expanded coverage, not a complete illustrated
+menu or a current official menu. Specific missing dish photos remain an owner-input
+gap; gathered-asset permission is already confirmed.
+
+Soup du jour explicitly labels a past split-pea preparation; fried oysters labels
+the pictured sandwich preparation. Turkey club and rigatoni-and-sausage remain
+library variants and are not substituted for different menu items. The accepted
+Joe Allen-derived layout, Instrument Sans typography, six filters, existing motion,
+four native page URLs and verified call/directions actions remain intact.
+
+Astra owns this scoped implementation under Derek’s no-Claude correction.
+Build and visual evidence, exact released revisions, independent Sol live review
+and final Slack asset delivery are recorded in the private R8 checkpoint and final
+handoff. Pending checks/delivery are not represented as completed here.
+
+
 ## R7 menu-photo update — October18,2026
 
 The authorized R7 release expands Menu from28 selections and a separate3-photo

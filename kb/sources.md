@@ -98,3 +98,22 @@ Fried Calamari and Shrimp Salad Platter are named on the [matched BringMeThat me
 The exact-address [Restaurantji gallery](https://www.restaurantji.com/md/parkville/johnny-dee-s-lounge-/photos/) exposed36 unique photos, with original source credit retained privately. Direct gallery selections comprise club sandwich, Reuben, calamari, sour beef/dumplings and shrimp salad platter. Four further gallery compositions were identified by actual official Facebook captions and sourced from those official renditions. Other duplicate plates, raw preparation trays and people/venue photos are not counted as additional menu dishes.
 
 Matching [DoorDash listing](https://www.doordash.com/store/johnny-dees-lounge-parkville-359683/) reports inactive and blocks full menu access; matching [Grubhub listing](https://www.grubhub.com/restaurant/johnny-dees-lounge-1705-amuskai-rd-parkville/1550810) returns410. Bounded ChowNow/Uber Eats searches did not find an exact accessible match. Official website still404. No current online-order link was verified. These are coverage gaps, not evidence that the restaurant never used these services.
+
+## R8 expanded photo sources — October18,2026
+
+The following ten new exact mappings supplement19valid prior compositions. R7’s Lounge Club image was a duplicate of the Italian cold cut sub and has been removed. Public customer photos are of the matched Johnny Dee’s location; exact-source attribution is retained.
+
+| Dish | Source | Qualification |
+|---|---|---|
+| Shrimp salad sandwich | [Photo source](https://www.instagram.com/gogidget50/p/DXQBtblj-qB/?img_index=1) | Historical preparation; current plating/availability may vary |
+| Cheeseburger | [Photo source](https://www.instagram.com/foodiedotnet/p/BGueGj3Hzo5/) | Historical preparation; current plating/availability may vary |
+| Seafood club | [Photo source](https://www.google.com/maps/place/Johnny+Dee%E2%80%99s+Lounge/@39.3930556,-76.5625,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDe7rX3Vw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgrass-cs%2FAABkmLf57wWishHxBSjZwRVJzzYk-NghWsPoPpF9K-_DtwBvq6qidJpxNZh6_3ReWsw8iDKeKEqOcQeV9y8enN2hdefL19VCa0G0uBeGdIlsw6bnTZpW6krXJmAK9D6e4ia_V5hU2w8v%3Dw640-h640-n-k-no!7i3147!8i1884!4m7!3m6!1s0x89c80f3adfc5495d:0xfa1e58871dbe5590!8m2!3d39.3930556!4d-76.5625!10e9!16s%2Fg%2F1tcyssz7?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D) | Historical preparation; current plating/availability may vary |
+| Crab cake | [Photo source](https://www.instagram.com/tombwebbeye/p/DBudYg7Stej/?img_index=2) | Historical preparation; current plating/availability may vary |
+| Soft-crab platter | [Photo source](https://www.yelp.com/biz_photos/johnny-dees-lounge-parkville-2?select=yHR6waE1QqHaloZKU-RQ4A) | Historical preparation; current plating/availability may vary |
+| Fried oysters | [Photo source](https://www.instagram.com/foodiedotnet/p/Bc1MW3IAyof/) | Historical preparation; current plating/availability may vary |
+| Chicken Johnny Dee | [Photo source](https://www.facebook.com/photo/?fbid=9659239507426055) | Historical preparation; current plating/availability may vary |
+| Hot turkey | [Photo source](https://www.instagram.com/gogidget50/p/DXQBtblj-qB/?img_index=2) | Historical preparation; current plating/availability may vary |
+| Shrimp bisque | [Photo source](https://www.facebook.com/photo/?fbid=9659239484092724) | Historical preparation; current plating/availability may vary |
+| Soup du jour | [Photo source](https://www.facebook.com/photo/?fbid=9659239170759422) | Past split-pea soup; not today’s availability |
+
+Full accessible Yelp and Google Food & drink passes did not supply an exact photo for every menu item. No similar restaurant’s media, generic stock dishes or AI substitutes were used.
