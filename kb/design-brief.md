@@ -1,5 +1,19 @@
 # Design brief
 
+## R7 scoped photo integration
+
+This is the owner's requested live-menu photo addition, not a new reference or
+redesign. Keep the accepted Joe Allen-derived800px white sheet and Instrument Sans.
+Place20 authentic dish photos at their matching named items, with uniform4:3 crops,
+consistent captions and two columns desktop/one phone. Center unmatched last photo
+in an odd desktop row. Preserve local filters/motion and the four separate URLs.
+Remove the repeated bottom ribbon. Do not retain spacing from hidden categories.
+All gathered business assets are authorized; item associations, historical dates
+and source credit remain separate factual caveats. See the R7 source mapping below
+and media report. Fifteen official captioned dishes plus five matched gallery dishes
+are actually used. No photos from ordering platforms were available in this pass.
+
+
 > Workflow supersession - October 17, 2026: no Stitch attempts or fallbacks for new work. Follow the repository reference-design skill and canonical `~/.codex/skills/xs-website/SKILL.md` reconstruction/delivery policy. Existing design decisions, task-specific role restrictions and confirmed asset permissions remain effective. Earlier tool attempts/authorship below are dated evidence, not instructions to repeat them.
 
 ## Current direction and authority

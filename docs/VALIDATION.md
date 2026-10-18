@@ -1,5 +1,17 @@
 # Validation
 
+## R7 menu-photo change — local readiness
+
+38 sourced selections,20 rendered dish images;32-file production build/static check.
+Asset verification passes24 originals with recorded hashes; generated public-media
+report and public-source check pass. Desktop1440x900 and phone375/320 compositions
+inspected, with category/image/control containment and no horizontal overflow.
+All local filter states return7/6/4/12/9/38; images load at their actual dish labels.
+The extra divider/gap from hidden preceding categories was corrected. Final LIVE
+Sol interaction review and production/preview exact revisions are recorded after
+the authorized release; this section does not claim those future checks passed.
+
+
 ## Final R6 LIVE acceptance - October18 UTC / October17 EDT,2026
 
 Production revision `d8dfdb5562cf358a3f63aa6330b5139d80953af5` is the PR5 correction.

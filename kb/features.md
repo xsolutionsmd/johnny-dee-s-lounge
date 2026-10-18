@@ -1,5 +1,15 @@
 # Features
 
+## R7 menu-photo behavior
+
+Menu now contains38 sourced selections and20 matching dish photos. All six states
+remain: All38, Sandwiches7, Seafood6, Classics4, Specials12, Soups & salads9.
+Photographed dishes form aligned two-column lists on desktop and one column on
+phones; unpictured items remain readable text without empty placeholders.
+Historical specials and changing availability stay explicit. No new ordering,
+submission or backend flow. Four native pages and verified destinations remain.
+
+
 ## Current R5/R6 accepted state
 
 Expanded28-item published selection with six local category states (All,

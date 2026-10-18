@@ -1,5 +1,36 @@
 # Handoff
 
+## R7 menu-photo update — October18,2026
+
+The authorized R7 release expands Menu from28 selections and a separate3-photo
+ribbon to38 sourced selections with20 individual dish photos directly beside the
+matching items. The private archive now contains24 unique images,12 added in R7.
+All suitable selected dish photos actually render; no arbitrary13-photo cap.
+
+Fifteen dish photographs have official Facebook captions; five are from the
+matched Restaurantji gallery with its original Facebook/Google/Tripadvisor credit
+and explicit visual-association caveats in the private item index. Seven deeper
+Facebook matches resolve beef tips, Italian meatloaf, beef stew, roast pork,
+grilled-chicken spinach salad, liver/onions and shrimp scampi. These are qualified
+past specials, not asserted to be available today. No prices or ordering added.
+
+Astra researched and implemented under the existing no-Claude instruction.
+The accepted Joe Allen-derived white800px sheet, one type family, two desktop
+columns/one phone column, six category states and four native URLs remain.
+Single-category filtering no longer leaves an extra separator/blank gap.
+
+Ordering-source coverage is honest: matched DoorDash inactive; Grubhub410;
+ChowNow/Uber Eats no exact accessible listing found. BringMeThat67 menu cards use
+generic store placeholders; three inspected details had no photos. No ordering
+platform food images were obtained. Collection uses actual business media from
+official Facebook and the matched gallery, with provenance retained.
+
+Release follows the existing reviewed preview-to-main Actions/Oracle path.
+Local build and focused visual checks precede it; the independent Sol LIVE review,
+final revision/route receipts and expanded Slack ZIP delivery are recorded after
+publication. Previous R5/R6 acceptance below remains dated history.
+
+
 ## Standing asset permission - October 17, 2026
 
 Derek confirms owner permission for all gathered business photos/assets across sources and beyond the shortlist, for this requested website in every environment including production. Use suitable assets without asking again per photo, source or environment. Older reference-only, public-unverified and permission-pending notes are superseded as approval gates; retain provenance and accurate identity/content descriptions. Pass this confirmation to every delegated agent. Keep the full original archive private and use optimized copies in the site.
