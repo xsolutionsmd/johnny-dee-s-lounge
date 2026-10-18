@@ -1,5 +1,20 @@
 # Validation
 
+## R5 live review and final phone-target correction
+
+Sol High reviewed production57edc5e on every page at1440/375, plus320px controls.
+It exercised all menu categories/rapid switches, gallery open/previous/next/keyboard/
+close/backdrop, drawer focus/outside/Escape/resize, native navigation/history and
+direct loads/reloads. Real photos, one-family type, reference crop/menu corrections
+and observed motion passed. One P3: shared mobile call link was20x44px.
+
+Astra changed only its mobile minimum width/centering to44x44px. Local production
+check19files passed; allfour headers at375/320 measure44x44 within their parent,
+with zero overflow and clickable padding after navigation transitions settle.
+Targeted320Visit screenshot inspected. Corrective release/live Sol recheck follows.
+Runtime reduced-motion preference emulation, physical touch and broad cross-browser
+testing remain unverified; source rules are present. No real calls were dispatched.
+
 2026-10-17, speed-first delivery. Four real documents: `/`, `/menu/`, `/catering/`, `/visit/`. Primary navigation has no section-anchor destinations.
 
 Initial release `eba3440f7952cf754cf52fa9410aa862a2349aa5` was built and tested locally, then published directly to Oracle before GitHub setup. It was subsequently replaced with Actions-built digest-pinned images in all three environments. Six initial CI/release runs passed. The 18 existing sibling containers retained their identities and images and remained healthy.
