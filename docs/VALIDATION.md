@@ -1,5 +1,50 @@
 # Validation
 
+## R8 actual production recheck — October 18, 2026
+
+PR7 production and both previews independently reported uncached revision
+`c4c0fa83f991d2a85584ec6b8f5e0cd2264c1e25`. Git application tree
+`d9defca42fe8e69aa47d71e576887c592cdcf7e4` matches accepted preview review
+`edf6cedac2a6531eb48081c3f37bf08811a590f0` exactly.
+
+GPT-6.1-Sol High, Standard rechecked actual production in its own T3 tab:
+all four native pages at 1440×900, 375×812 and 320×812, 29 loaded/visually distinct
+menu photographs, ten new mappings/crops, corrected text-only Lounge Club,
+oyster sandwich and past split-pea qualifiers. No broken image, viewport overflow
+or escaped main descendant was observed; phone controls fit their containing cards.
+All six filters returned 38/7/6/4/12/9 on desktop and phone. Native drawer navigation,
+back/forward, actual browser reloads (200/reload), initial Close focus, Tab wrapping,
+Escape/focus restoration, explicit Close/outside dismissal and existing gallery
+open/next/Escape/opener focus passed. Trusted CTA clicks reached the documented
+telephone, Maps and Facebook destinations with external dispatch intercepted.
+No calls, orders or customer messages were sent. No actionable defect was observed.
+
+This is a focused production pass reusing the accepted full preview review below,
+not another complete 50-screenshot suite. Twenty-two targeted production captures
+and DOM measurements are indexed privately. Desktop PNGs are 1280×800 while the
+measured CSS viewport is 1440×900; phone PNGs are 2× CSS size. Physical touch,
+other browser engines and forced reduced-motion runtime remain untested.
+
+Source Actions all passed: release main39098874529, Derek39098883602,
+Abdul39098883623; CI39098874527/39098883588/39098883599. Normal release gates
+remain authoritative for later documentation-only revisions. The repository
+verify-pages.py checks passed all 12 page/environment direct-load and uncached
+refresh combinations at the source revision, including exact version, health,
+HTTPS and noindex. Astra's release receipt records 24 healthy containers and
+unchanged gateway; independent Charcoal preview updates are separate. Sol made
+no app edits, deployments or server mutations, and ran no redundant local app suite.
+
+Coverage is 29 photos for 38 selections, not 100%: The Lounge Club, French dip,
+Chef's catch of the day, New York strip steak, Baked rigatoni with meat sauce,
+Maryland crab soup, Turkey noodle, Homemade chili and Greek salad have no exact
+photo. Twenty-seven mappings have caption/source support; Reuben and calamari
+remain inferred. Historical/customer photos and current menu/price/availability
+limits remain explicit. Permission covers every gathered asset/source/environment.
+
+Final exact documentation revisions, matching branch Actions runs and persisted
+Slack/ZIP receipts are retained separately after promotion; they do not change the
+reviewed application tree. See the current [handoff](../kb/HANDOFF.md).
+
 ## R8 independent live preview review accepted ? October 18, 2026
 
 GPT-6.1-Sol High inspected the live Derek preview at application revision
@@ -14,8 +59,7 @@ Coverage remains 29 photos for 38 selections, with nine exact photo gaps; 27
 associations are caption/source-confirmed and Reuben/calamari retain inferred
 identity caveats. Mixed historical photo quality and current availability remain
 qualified. Physical touch, other browser engines and forced reduced-motion runtime
-were not tested. Production promotion follows this accepted review; final
-production/environment verification and Slack delivery are recorded separately.
+were not tested. This accepted preview review preceded PR7; actual production verification is recorded above. Final delivery receipts remain separately recorded.
 
 
 ## R8 expanded menu photos ? local validation, October18,2026
@@ -28,8 +72,7 @@ qualify the pictured preparation. No new functions, routes, fonts or CSS changes
 
 Final local `npm run check` passes41built files. Asset verification passes48originals
 with no problems; public-source check passes. Repository visibility is PUBLIC, so
-existing standard GitHub Actions are the release route. Independent LIVE Sol review
-and exact production/preview revision checks follow publication; not yet claimed.
+existing standard GitHub Actions are the release route. This was local readiness evidence; the subsequent independent live preview and production checks are recorded above.
 
 
 ## R7 menu-photo change — local readiness
