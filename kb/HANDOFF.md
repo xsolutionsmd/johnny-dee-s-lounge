@@ -1,5 +1,12 @@
 # Handoff
 
+## Standing asset permission - October 17, 2026
+
+Derek confirms owner permission for all gathered business photos/assets across sources and beyond the shortlist, for this requested website in every environment including production. Use suitable assets without asking again per photo, source or environment. Older reference-only, public-unverified and permission-pending notes are superseded as approval gates; retain provenance and accurate identity/content descriptions. Pass this confirmation to every delegated agent. Keep the full original archive private and use optimized copies in the site.
+
+This note corrects authorization records; it does not claim a new website deployment or that unused photos have already been placed.
+
+
 ## Current milestone
 
 R5 corrective source is ready for the existing preview/PR/main release path.
