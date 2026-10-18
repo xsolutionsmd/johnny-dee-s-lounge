@@ -1,39 +1,54 @@
 # Handoff
 
 <!-- xs-status:start -->
-Pipeline status (generated 2026-10-17T23:53:48.446853+00:00):
+Pipeline status (generated 2026-10-18T00:54:53.585991+00:00):
 
 - **identity**: done
 - **research**: done
 - **spec**: done
-- **assets**: todo: shortlist the best media (xs_assets.py update --shortlist yes --role ...) and rerun report
+- **assets**: done
 - **delivery**: done
 - **infra**: done
-- **template**: todo: choose the premium template site and record it under '## Template site' in kb/design-brief.md
-- **build**: done
-- **deploy**: todo: record verified deploy evidence
+- **template**: done
+- **build**: todo: functional acceptance: every pre row in kb/features.md ## Acceptance must pass (0/0 passing; at least one required)
+- **deploy**: todo: functional acceptance: every live row in kb/features.md ## Acceptance must pass (0/0 passing; at least one required)
 <!-- xs-status:end -->
 
 ## Current state
 
-Workflow: speed-first. Four real page URLs (`/`, `/menu/`, `/catering/`, `/visit/`), with shared navigation/footer, active page and mobile menu. Source repository: https://github.com/xsolutionsmd/johnny-dee-s-lounge.
+Workflow: speed-first. Four real pages `/`, `/menu/`, `/catering/`, `/visit/`.
+Production and both previews remain at `7a795575` while the authorized reference-led
+correction is prepared on `derek-dev`. Repository:
+https://github.com/xsolutionsmd/johnny-dee-s-lounge.
 
-Production: https://johnny-dee-s-lounge.xsolutionsmd.com. Previews: https://johnny-dee-s-lounge-derek-dev.xsolutionsmd.com and https://johnny-dee-s-lounge-abdul-dev.xsolutionsmd.com. All initially verified at `eba3440f7952cf754cf52fa9410aa862a2349aa5`, including direct loads and refreshes of every route. Current revision is exposed by `/version.json` on each host.
+## Current correction
 
-This handoff accompanies the scoped Astra correction candidate on derek-dev. All three issues from the post-publication Sol live visual review were addressed and checked locally. See [validation](../docs/VALIDATION.md). Final release and Slack URL receipts are maintained in the private project records so operational evidence does not cause an endless documentation-only release cycle.
+The first release did not use an inspected live template. Following Derek's
+correction, Astra reviewed the existing functions, business facts and actual media,
+then inspected three real references on desktop/mobile. Joe Allen is selected for
+composition; Minetta contributes only a mobile tel-link behavior missing from Joe
+Allen. Exact function mapping and observations are in `features.md` and
+`design-brief.md`. Claude rebuilt all four pages accordingly: white/black theme,
+centered identity and balanced navigation, menu-sheet composition and one authored
+type family, Instrument Sans.
 
-## Last session
+Derek's latest standing instruction confirms permission to use the business assets.
+The food collage and original tankard logo are selected local production images,
+with provenance and page mapping in `media.md`. The temporary embed-only approach
+was superseded before release. Claude completed the real-image integration and a focused photo-first refinement using supplied desktop/mobile reference captures and spacing notes.
+Original files and private operational/commercial notes remain outside this repo.
 
-Claude implemented the initial visual frontend; Astra handled facts, feature scope, assets, menu filtering, checks, Oracle and repository automation. The working site was published first, then the public repository, three branches, Actions and independent environments were established. First-live URL and the private reference-media package were delivered to the authorized team channel and read back.
+## Verification and next action
 
-Sol inspected every live page on desktop/mobile. Astra brightened labels on dark sections, centered single filtered menu results and aligned homepage visit-card buttons. No unrelated redesign or extra page was introduced.
+The final corrective source passed npm run check (11 built files), actual desktop1440/phone375 inspection on all four pages, 320px Visit containment, local filters, mobile navigation/Escape and browser history. Both authentic assets load locally. Home photo leads directly below the masthead and all three visit actions align. Next: release by authorized protected-main PR, perform the
+requested fresh Sol High LIVE desktop/mobile review (reference fidelity, actual
+assets, typography and awkwardness), have Astra fix actionable findings, verify all
+three environments and send final Slack URL correction. Earlier checks in
+`docs/VALIDATION.md` describe the first delivery and cannot substitute for this pass.
 
-## Next step
+## Remaining owner content
 
-Promote this checked correction through the protected main PR route, sync both preview branches, verify all three exact revisions/routes and send the final team URL handoff. The private checkpoint records completion and immutable revision evidence. Future edits should use a developer preview branch and a release-authorized PR.
-
-## Blockers / waiting on
-
-No website blocker. Owner inputs remain: full current menu/prices, confirmed daily hours, catering terms/capacity and photo permission. Menu names are sourced examples; visitors are directed to call for current details. No staff submission integration is simulated.
-
-The normal assets/template gates above intentionally remain incomplete: no cleared photo shortlist exists, and no exact premium reference template was selected. One bounded Stitch attempt timed out, so the original visual direction was implemented directly. These are documented speed-first exceptions, not fabricated stage successes. Original reference media and commercial notes remain private and outside the repository/image.
+Current full menu/prices, confirmed daily hours and catering terms/capacity.
+Six customer-mentioned dish examples and listed hours remain qualified. Phone,
+Maps and official Facebook destinations are real; no order/reservation/form
+submission is simulated. Asset permission is no longer a pending question.

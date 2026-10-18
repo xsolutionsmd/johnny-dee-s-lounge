@@ -5,64 +5,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
     <meta name="description" content="A selection of seafood and bar &amp; grill classics from Johnny Dee’s Lounge in Parkville, MD. Call 410-665-7000 for today’s soups and specials.">
-    <meta name="theme-color" content="#1b1311">
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" type="image/png" href="/media/johnny-dees-logo.png">
     <title>Menu | Johnny Dee&rsquo;s Lounge</title>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
       <div class="wrap header-inner">
-        <a class="wordmark" href="/" aria-label="Johnny Dee&rsquo;s Lounge home"><span class="wordmark-name">Johnny Dee&rsquo;s</span><span class="wordmark-sub">Lounge</span></a>
+        <a class="brand" href="/"><img class="brand-logo" src="/media/johnny-dees-logo.png" width="666" height="675" alt="Johnny Dee&rsquo;s Lounge home"></a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation"><svg class="icon i-open" aria-hidden="true" focusable="false"><use href="/icons.svg#i-menu"></use></svg><svg class="icon i-close" aria-hidden="true" focusable="false"><use href="/icons.svg#i-close"></use></svg></button>
         <nav class="site-nav" id="site-nav" aria-label="Primary">
           <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/menu/" aria-current="page">Menu</a></li>
-          <li><a href="/catering/">Catering</a></li>
-          <li><a href="/visit/">Visit</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/menu/" aria-current="page">Menu</a></li>
+            <li><a href="/catering/">Catering</a></li>
+            <li><a href="/visit/">Visit</a></li>
           </ul>
         </nav>
-        <a class="btn btn-primary header-call" href="tel:+14106657000" aria-label="Call 410-665-7000"><svg class="icon" aria-hidden="true" focusable="false"><use href="/icons.svg#i-phone"></use></svg><span class="call-text">410-665-7000</span></a>
-        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation"><svg class="icon i-open" aria-hidden="true" focusable="false"><use href="/icons.svg#i-menu"></use></svg><svg class="icon i-close" aria-hidden="true" focusable="false"><use href="/icons.svg#i-close"></use></svg></button>
+        <a class="header-util util-directions" href="https://www.google.com/maps/dir/?api=1&amp;destination=Johnny+Dee%27s+Lounge%2C+1705+Amuskai+Rd%2C+Parkville%2C+MD+21234" aria-label="Directions to 1705 Amuskai Rd"><svg class="icon" aria-hidden="true" focusable="false"><use href="/icons.svg#i-pin"></use></svg><span class="util-text">1705 Amuskai Rd</span></a>
+        <a class="header-util util-call" href="tel:+14106657000" aria-label="Call 410-665-7000"><svg class="icon" aria-hidden="true" focusable="false"><use href="/icons.svg#i-phone"></use></svg><span class="util-text">410-665-7000</span></a>
       </div>
     </header>
 
     <main id="main">
-      <section class="page-hero" aria-labelledby="page-title">
-        <div class="wrap">
-          <p class="label rise">Menu</p>
-          <h1 id="page-title" class="rise rise-2">From the <em>kitchen</em></h1>
-          <p class="lede rise rise-3">A selection of seafood and bar &amp; grill classics from Johnny Dee&rsquo;s.</p>
+      <section class="page-intro" aria-labelledby="page-title">
+        <div class="wrap narrow">
+          <h1 id="page-title" class="rise">Menu</h1>
+          <p class="lede rise rise-2">Seafood and bar &amp; grill classics customers come back for. Soups and specials change, so call for today&rsquo;s full menu.</p>
         </div>
+        <figure class="food-photo food-strip rise rise-3">
+          <img src="/media/johnny-dees-food.jpg" width="851" height="315" alt="Six plates from the Johnny Dee&rsquo;s kitchen, including shrimp salad with fries, spaghetti and meatballs, a salad topped with sliced almonds and a pepperoni pizza." fetchpriority="high">
+        </figure>
       </section>
 
-      <section class="section light" aria-labelledby="selection-title">
-        <div class="wrap">
-          <div class="menu-intro">
-            <h2 id="selection-title" class="visually-hidden">Dish selection</h2>
-            <div class="filters" role="group" aria-label="Filter dishes">
-              <button type="button" data-menu-filter="all" aria-pressed="true">All</button>
-              <button type="button" data-menu-filter="seafood" aria-pressed="false">Seafood</button>
-              <button type="button" data-menu-filter="classics" aria-pressed="false">Classics</button>
-            </div>
-            <p id="menu-status" class="menu-status" role="status" aria-live="polite"></p>
+      <section class="section sheet-section" aria-labelledby="selection-title">
+        <div class="wrap sheet">
+          <h2 id="selection-title" class="visually-hidden">Dish selection</h2>
+          <div class="filters" role="group" aria-label="Filter dishes">
+            <button type="button" data-menu-filter="all" aria-pressed="true">All</button>
+            <button type="button" data-menu-filter="seafood" aria-pressed="false">Seafood</button>
+            <button type="button" data-menu-filter="classics" aria-pressed="false">Classics</button>
           </div>
+          <p id="menu-status" class="visually-hidden" role="status" aria-live="polite"></p>
           <div class="menu-board">
             <section class="menu-group" data-menu-category="seafood" aria-labelledby="seafood-title">
-              <header>
-                <p class="label">From the water</p>
-                <h2 id="seafood-title">Seafood</h2>
-              </header>
+              <h2 id="seafood-title" class="caps">Seafood</h2>
               <ul class="dish-list">
                 <li><span class="dish-name">Shrimp salad sandwich</span></li>
                 <li><span class="dish-name">Crab cake</span></li>
               </ul>
             </section>
             <section class="menu-group" data-menu-category="classics" aria-labelledby="classics-title">
-              <header>
-                <p class="label">Bar &amp; grill</p>
-                <h2 id="classics-title">Classics</h2>
-              </header>
+              <h2 id="classics-title" class="caps">Classics</h2>
               <ul class="dish-list">
                 <li><span class="dish-name">Chicken Johnny Dee</span></li>
                 <li><span class="dish-name">Reuben platter</span></li>
@@ -72,10 +67,8 @@
             </section>
           </div>
           <aside class="menu-note" aria-labelledby="today-title">
-            <div>
-              <h2 id="today-title">Soups, specials and <em>today&rsquo;s menu</em></h2>
-              <p>Soups and specials change. Call the lounge for the full menu and what&rsquo;s cooking today.</p>
-            </div>
+            <h2 id="today-title" class="caps">Soups, specials and today&rsquo;s menu</h2>
+            <p>Soups and specials change. Call the lounge for the full menu and what&rsquo;s cooking today.</p>
             <a class="btn btn-primary" href="tel:+14106657000"><svg class="icon" aria-hidden="true" focusable="false"><use href="/icons.svg#i-phone"></use></svg>Call 410-665-7000</a>
           </aside>
         </div>
@@ -84,29 +77,22 @@
 
     <footer class="site-footer">
       <div class="wrap footer-inner">
-        <div class="footer-col">
-          <a class="wordmark" href="/" aria-label="Johnny Dee&rsquo;s Lounge home"><span class="wordmark-name">Johnny Dee&rsquo;s</span><span class="wordmark-sub">Lounge</span></a>
-          <p>An American bar &amp; grill in Parkville, Maryland.</p>
-        </div>
-        <nav class="footer-col" aria-label="Footer">
-          <h2>Pages</h2>
-          <a href="/">Home</a>
-          <a href="/menu/" aria-current="page">Menu</a>
-          <a href="/catering/">Catering</a>
-          <a href="/visit/">Visit</a>
+        <a class="brand brand-small" href="/"><img class="brand-logo" src="/media/johnny-dees-logo.png" width="666" height="675" alt="Johnny Dee&rsquo;s Lounge home" loading="lazy" decoding="async"></a>
+        <nav aria-label="Footer">
+          <ul class="footer-nav">
+            <li><a href="/">Home</a></li>
+            <li><a href="/menu/" aria-current="page">Menu</a></li>
+            <li><a href="/catering/">Catering</a></li>
+            <li><a href="/visit/">Visit</a></li>
+          </ul>
         </nav>
-        <div class="footer-col">
-          <h2>Find us</h2>
-          <address>1705 Amuskai Rd<br>Parkville, MD 21234</address>
-          <a href="https://www.google.com/maps/dir/?api=1&amp;destination=Johnny+Dee%27s+Lounge%2C+1705+Amuskai+Rd%2C+Parkville%2C+MD+21234">Get directions</a>
-        </div>
-        <div class="footer-col">
-          <h2>Contact</h2>
+        <address class="footer-contact">
+          <a href="https://www.google.com/maps/dir/?api=1&amp;destination=Johnny+Dee%27s+Lounge%2C+1705+Amuskai+Rd%2C+Parkville%2C+MD+21234">1705 Amuskai Rd, Parkville, MD 21234</a>
           <a href="tel:+14106657000">410-665-7000</a>
           <a href="https://www.facebook.com/p/Johnny-Dees-Lounge-100042693473168/">Facebook</a>
-        </div>
+        </address>
+        <p class="footer-base">&copy; Johnny Dee&rsquo;s Lounge</p>
       </div>
-      <div class="wrap footer-base"><p>&copy; Johnny Dee&rsquo;s Lounge</p></div>
     </footer>
     <script type="module" src="/src/main.js"></script>
   </body>

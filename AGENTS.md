@@ -46,7 +46,9 @@ refreshes the generated status block.
   pushing when the skills are installed.
 - Every factual claim on the site must trace to `kb/sources.md`. Unknowns stay
   unknown; never invent reviews, ratings, prices, credentials or service areas.
-- Media: public accessibility alone is not reuse permission. Only approved/licensed media may be published. The private reference package was delivered to Abdul; see kb/media.md for actual scope.
+- Media: the site is built for the business, so all of the business's collected
+  media may be used in every environment (see `kb/media.md`). The original media library was delivered to
+  Abdul on Slack.
 - Previews are `noindex` and use test data and test integrations only.
 - Keep `kb/`, `AGENTS.md`, `CLAUDE.md` and `xsolutions.json` out of the production
   image (`.dockerignore`).

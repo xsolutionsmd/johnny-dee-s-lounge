@@ -18,4 +18,4 @@ Each preview branch publishes only its own environment. Production changes requi
 
 Verify all routes on a running environment with `python scripts/verify-pages.py https://HOST --revision COMMIT`. This checks direct page loads and uncached reloads, distinct main content, noindex headers and exact revision.
 
-Current content gaps: owner-confirmed full menu/prices, daily hours, catering terms and photography reuse permission. No ordering, reservation or form delivery is represented as connected.
+Current content gaps: owner-confirmed full menu/prices, daily hours, catering terms/capacity. No ordering, reservation or form delivery is represented as connected.

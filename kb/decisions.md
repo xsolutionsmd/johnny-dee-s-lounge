@@ -4,3 +4,5 @@
 - 2026-10-17, selected delivery: static site with real telephone, maps and official social links. Menu is a sourced selection without prices; catering uses a telephone inquiry. No unconnected forms or invented availability.
 - 2026-10-17, staged delivery: first checked Oracle release, then GitHub/Actions and independent personal preview environments. See deployment record for actual verified state.
 - 2026-10-17, content boundary: hours provisional with a call-to-confirm note. Media without established reuse permission stays out of the public site.
+
+- 2026-10-17 corrective build: function-first reference selection by Astra; Joe Allen primary design, Minetta mobile tel behavior supplement. Actual owner-approved food collage and logo are used directly; one Instrument Sans family. Claude implements the visible revision; fresh Sol live review reports to Astra for scoped fixes and release.

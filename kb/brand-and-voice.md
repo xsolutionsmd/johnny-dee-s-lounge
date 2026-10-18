@@ -4,7 +4,15 @@ Observed 2026-10-17.
 
 ## Logo and colours
 
-Official logo asset, colour specifications and typography: **Unknown in this research pass**. No invented visual treatment should be described as the existing brand.
+Corrective visual inspection, October 17–18, 2026: the verified official Facebook
+profile shows a **black-and-white circular beer-tankard logo** and a **six-panel
+plated-food cover collage**. These are observed identity cues, not a supplied brand
+manual. Exact brand color specifications and original typography remain unknown.
+The initial ornate supper-club styling was not a verified brand fact. The revision
+uses restrained monochrome restaurant styling and one sans-serif family, informed
+by the real identity. The original logo is published as a local asset under
+Derek's standing confirmation of owner permission, reiterated during this build.
+The initial embed-only approach was superseded before the corrective release.
 
 ## Tone
 

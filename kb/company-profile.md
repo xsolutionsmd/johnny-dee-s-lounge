@@ -10,7 +10,11 @@ Research date: 2026-10-17. Minimum useful public facts; see confidence and retri
 
 A Parkville restaurant and lounge. Tripadvisor classifies it as American, serving lunch and dinner; the indexed official site describes an American bar and grill. **Verified category; hours separately disputed.** [S2][S4]
 
-Food and a catering hall were advertised on the identified Facebook page, according to the supplied research handoff. **Single-source; current event arrangements unconfirmed.** [S3]
+Food and a catering hall are advertised on the verified Facebook page, directly
+reinspected during the corrective visual pass on October 17, 2026. The profile
+shows plated food, a black-and-white beer-tankard logo and local community content.
+**Business-published visual/category evidence; current event arrangements remain
+unconfirmed.** [S3]
 
 ## History and team
 
